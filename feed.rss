@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Wed, 20 Jul 2022 09:47:16 -0300</lastBuildDate>
-<pubDate>Wed, 20 Jul 2022 09:47:16 -0300</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
+<description>La cueva del rol</description><language>en</language>
+<lastBuildDate>Thu, 11 Aug 2022 20:11:43 -0300</lastBuildDate>
+<pubDate>Thu, 11 Aug 2022 20:11:43 -0300</pubDate>
+<atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Otra entrada mas
 </title><description><![CDATA[
@@ -12,9 +12,10 @@ Otra entrada mas
 <p>Pero no me importa nada, esto es <i>literalmente</i> una prueba.</p>
 
 <p>Tags: <a href='tag_tags-are-optional.html'>tags-are-optional</a></p>
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/otra-entrada-mas.html</link>
-<guid>http://example.com/blog/./otra-entrada-mas.html</guid>
+]]></description><link>https://monguito.github.io/web//otra-entrada-mas.html</link>
+<guid>https://monguito.github.io/web//./otra-entrada-mas.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Wed, 20 Jul 2022 09:47:14 -0300</pubDate></item>
 <item><title>
@@ -27,9 +28,10 @@ as you exit your editor.</p>
 
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/una-linea-de-pruebas-con-acentos.html</link>
-<guid>http://example.com/blog/./una-linea-de-pruebas-con-acentos.html</guid>
+]]></description><link>https://monguito.github.io/web//una-linea-de-pruebas-con-acentos.html</link>
+<guid>https://monguito.github.io/web//./una-linea-de-pruebas-con-acentos.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Wed, 20 Jul 2022 09:44:54 -0300</pubDate></item>
 </channel></rss>
