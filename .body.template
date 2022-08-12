@@ -1,0 +1,14 @@
+<div class="headerholder">
+	<div class="header">
+		<div id="title"><h1 class="header"><a class="cabeza1" href="index.html"><img src="d20.png" style="max-width:100%;height:auto;">Monguito: Reloaded</a></h1>
+		</div>
+		<div class="centro">
+		<a class="cabeza" href="index.html">Inicio</a> &mdash; 
+		<a class="cabeza" href="la-maldicion-de-strahd.html">La Maldición de Strahd</a> &mdash; 
+		<a class="cabeza" href="#">Manuales</a> &mdash; 
+		<a class="cabeza" href="#">Personajes</a> &mdash; 
+		<a class="cabeza" href="all_tags.html">Ver categorias</a> 
+		<p> </p> 
+		</div>
+	</div>
+</div>
