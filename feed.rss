@@ -2,16 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
 <description>La cueva del rol</description><language>en</language>
-<lastBuildDate>Fri, 12 Aug 2022 12:12:26 -0300</lastBuildDate>
-<pubDate>Fri, 12 Aug 2022 12:12:26 -0300</pubDate>
+<lastBuildDate>Tue, 23 Aug 2022 23:08:01 -0300</lastBuildDate>
+<pubDate>Tue, 23 Aug 2022 23:08:01 -0300</pubDate>
 <atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Lectura del Tarokka
+</title><description><![CDATA[
+
+<h4><i>"Las cartas tienen significados. Mi tarea es interpretarlas lo mejor posible, pero no es algo exacto, sino mas bien profético."</i> &mdash; Madame Eva</h4>
+
+<h1>Lectura Personal</h1>
+Sesión 7, 21/08/2022
+
+<ul>
+	<li><b>Gerold (DIVINER):</b><i>(Le ofrece té de Cilantro, el preferido de Gerold) La de la carta soy yo. Su carta es simple de comprender, usted es el líder natural del equipo, su misión era convencerlos de que los demás lleguen a mí y a partir de ahora, el de guiarlos. Incluso a <b>ella.</b> Eso es todo, señor Proudbottom.</i></li>
+	<li><b>Cafrune (RAVEN):</b><i>En Barovia aún hay quienes se resisten al mal. Potenciales aliados esperan una ayuda de las fuerzas naturales.</i></li>
+	<li><b>Vondal (BEAST):</b><i>(Se dirige a Vondal por el apellido real). En Barovia también hay problemas con gemas. Pero al recuperarlas no van a liberar bestias como en su caso, sino contenerlas. Quizá lo que aprenda en estas tierras sirva para luchar contra aquello que lo atormenta</i></li>
+	<li><b>Krit'Snik (MARIONETTE):</b><i>Aquello que mas te intriga, lo que mueve tu corazón, está en Barovia. Esa cosa es un ser malvado porque así se le creó, pero puede aprender de alguien mejor, como Ud.</i></li>
+	<li><b>Narudiel (PALADIN):</b><i>(Aquí no hay nada de valor para robar) Un paladín está desesperado, en una carrera contra el tiempo para encontrar la forma de ayudar a su familia. Entiendo que la familia es importante para ud. Ayudar a este paladín traerá luz al mundo.</i></li>
+</ul>
+
+<h1>Lectura Grupal</h1>
+Sesión 7, 21/08/2022
+
+<p><i>Madame Eva recibe las cartas que cada uno tenía en su poder y las baraja con las demás de su mazo. Toma 5 cartas y las coloca en forma de cruz en la mesa.</i></p>
+
+<ul>
+	<li><b>Izquierda: </b><i>Esta es una carta de fuerza y poder. Habla de un arma forjada para consumar una venganza: una espada que atesora la luz del sol. Podrán encontrarla bajo una montaña de tesoros, más allá de un par de <u>puertas de ámbar.</u></i></li>
+	<li><b>Arriba: </b><i>Esta carta hace hincapié en los hechos históricos. Dice que el conocimiento de la antigüedad les ayudará a comprender mejor a su enemigo. Lo que buscan... lo veo en una <u>aldea muerta, inundada por un río</u>, gobernada por alguien que ha traído una gran maldad al mundo.</i></li>
+	<li><b>Derecha: </b><i>Esta carta habla de una poderosa fuerza del bien y la protección, un símbolo sagrado que infunde gran esperanza. Lo podrán encontrar escondido detrás del sol, <u>en la casa de un santo.</u></i></li>
+	<li><b>Abajo: </b><i>Esta carta arroja luz sobre alguien que les ayudará generosamente en su batalla contra la oscuridad. Este aliado será un <u>gran mago.</u> Su mente está destrozada, pero sus conjuros son poderosos.</i></li>
+	<li><b>Centro: </b><i>Su enemigo es una criatura de la oscuridad, cuyos poderes van más allá de la mortalidad. ¡Esta carta conduce hasta él! Cuando sea el momento indicado lo podrán encontrar ahí: en <u>la tumba de la madre.</u></i></li>
+</ul>
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//lectura-del-tarokka.html</link>
+<guid>https://monguito.github.io/web//./lectura-del-tarokka.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Tue, 23 Aug 2022 22:25:44 -0300</pubDate></item>
 <item><title>
 Booklet: Fatas de Barovia, Tomo I
 </title><description><![CDATA[
 
 <b>Fatas de Barovia: Un acercamiento histórico</b>. Tomo I
 
-<b>Una breve historia</b>
+<p><b>Una breve historia</b></p>
 
 <p>Mucho antes de que S.M. Lord Strahd v. Zarovich llegara y civilizara el valle, Barovia fue una vez una tierra salvaje. El valle estaba poblado en gran parte por aldeas familiares dispersas, generalmente no más grandes que un par de docenas de personas que vivían en tres o cuatro casas por aldea. Estas personas estaban acostumbradas al duro paisaje y, en general, eran personas cordiales y un tanto bárbaras. Además, también había grupos de gente del bosque que vivían en la naturaleza y no se asentaron. La gente asentada y la gente del bosque han tenido una relación famosamente tumultuosa a lo largo de los siglos, con períodos de odio y períodos de paz esparcidos a lo largo de la historia.</p>
 <p>En un sentido general, la tierra se dividió en tres territorios o ambientes templo: El templo del Pantano, el templo del Bosque y el templo de la Montaña. Esta no es una definición exacta, pero por el bien de esta historia, es la forma más fácil de imaginarlos.</p>
@@ -46,20 +84,134 @@ Booklet: Fatas de Barovia, Tomo I
 <p>Las investigaciones arqueológicas e históricas nos permiten deducir que las prácticas solían ser comuniones con la naturaleza, donde la gente se adentraba en los bosques y vivía completamente sola con respeto por las Damas. Los que sobrevivieron regresarían a casa espiritualmente despiertos. Otros rituales eran largas noches dedicadas al respeto y la adoración o peregrinaciones por todo el pueblo a los principales santuarios.</p>
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
 <guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
 <dc:creator>Compi</dc:creator>
 <pubDate>Fri, 12 Aug 2022 12:12:24 -0300</pubDate></item>
 <item><title>
-La Maldición de Strahd
+Booklet: Milagros de San Andral
 </title><description><![CDATA[
 
-<p>Aca van las cosas de Strahd</p>
-<p><a href="tag_strahd-booklet.html">Booklets</a></p>
+<p><b>Milagros de San Andral</b>, Por Milos Vikernes</b></p>
+
+<p>Los estudiosos de su obra, y múltiples discípulos dicen que San Andral era poderoso en obras y en palabras. Su cuerpo habitaba esta tierra, pero su alma vivía en los cielos, iluminado por el Señor de la Mañana.</p>
+<p>San Andral, por entonces, declaraba que “el gran peligro del creyente es predicar y no practicar, creer pero no vivir de acuerdo con lo que se cree”. También decía que “El Señor de la Mañana ablanda los corazones duros; si lo invocas, endulzas las tentaciones amargas; si piensas en él, te ilumina el corazón; si lo lees, te sacia la mente”.</p>
+<p>En una oportunidad se encontró cara a cara con el Burgomaestre de Berez, que había perpetrado una terrible masacre entre sus súbditos. Cuando Andral lo vió, le dijo: “Oh, enemigo del Señor de la Mañana, tirano despiadado, perro rabioso, ¿hasta cuándo seguirás derramando sangre inocente? ¡Escucha bien, pende sobre tu cabeza la sentencia del Señor, terrible y durísima!”.
+Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al joven y atrevido Andral, el Burgomaestre los desconcertó a todos al ordenar que el religioso fuera alejado de allí sin violencia. Para explicar su proceder, el tirano les explicó: “Compañeros, no os asombréis. Os digo con toda verdad, que he visto emanar del rostro de este padre el fulgor divino, que me ha aterrado a tal punto que tenía la sensación de precipitar en el caos. Nunca mas me asomaré a la oscuridad”. El Burgomaestre se dedicó a obtener el perdón del Señor de la Mañana y el pueblo de Berez progresó como nunca durante su mandato.</p>
+<p>En una ocasión, cuando los guardias de un mercader de Barovia le impedían al pueblo acudir a sus sermones, Andral se fue a la orilla del lago y proclamó: “Dado que son indignos de la Palabra del Señor de la Mañana, he aquí que me dirijo a los peces. Oigan la palabra de Dios, Uds. los pececillos, ya que los pecadores de la tierra no la quieren escuchar”. Y los peces afloraron por centenares, ordenados y palpitantes, a escuchar la palabra de exhortación y de alabanza. Aquel milagro fue presenciado por decenas de testigos y los herejes de Barovia tuvieron que ceder.</p>
+<p>Hubo una noche en que el Burgomaestre de Vallaki no podía dormir. Decidió acercarse a la iglesia para ver si su amigo Andral estaba despierto y se percató de que la puerta entreabierta de la iglesia salía un intenso resplandor. Temiendo un incendio, empujó la puerta y quedó estupefacto con la escena que presenció: Andral, de rodillas sostenía la mano de un hombre gigante y dorado, vistiendo en rosa, amarillo y rojo que despedía un aura divina y estaba delante de él: un avatar del Señor de la Mañana. El Santo posteriormente le advirtió al Burgomaestre que callara lo que había presenciado, y que lo divulgara sólo hasta que él hubiera muerto, un suceso que iba a ocurrir más temprano que tarde.</p>
+<p>Andral además portaba un símbolo sagrado que se dice había pertenecido al paladín de las leyendas llamado Lugdana, famoso por expulsar nidos enteros de nomuertos. Este símbolo sagrado tenía la forma del sol, en platino y oro, con un gran cristal carmesí en su centro.
+<p>De acuerdo a las leyendas, el amuleto fue entregado a Lugdana por un cuervo, un ángel en forma de cuervo, o un ángel con alas de cuervo según algunas traducciones. De ahí que comunmente se lo conozca como el símbolo sagrado de los cuervos, o el símbolo sagrado de los amigos de los cuervos.</p>
+<p>Se vió a Andral portar el símbolo y usarlo en enfrentamientos, incluso pudiendo detener inmóbil e indefenso al Diablo Strahd.</p>
+<p>En la actualidad se desconoce el paradero de esta santa reliquia de inconmesurable valor. Muchas partidas y expediciones se hicieron en su búsqueda sin dar con él.</p>
 
 
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-milagros-de-san-andral.html</link>
+<guid>https://monguito.github.io/web//./booklet-milagros-de-san-andral.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 12 Aug 2022 11:47:40 -0300</pubDate></item>
+<item><title>
+Booklet: El Señor de la Mañana
+</title><description><![CDATA[
+
+
+<p><b>El amanecer</b></p>
+	
+<p>El Señor de la Mañana es la deidad del rosado amanecer que marca el final de cada noche.</p>
+<p>Nuestro señor pide poco de nosotros, mas que seamos amables con el prójimo y mantengamos la esperanza en nuestros corazones. Él nos enseña a tener esperanza por un nuevo amanecer, sin importar cuan poco prometedor parezca el futuro, sin importar cuán oscura sea la noche... el amanecer siempre llega.</p>
+<p>El Señor de la Mañana bendice a quienes plantan nueva vida y destierran la maldad de la cara del mundo, y se regocija en la juvenil vitalidad y en las primaveras bien invertidas en mejorar nuestras vidas.</p>
+<p>El Señor de la Mañana llegó a nuestras tierras ayudando a un pobre hombre perdido en la noche. Él lo protegió de aquello que susurraba en las sombras. Durante toda la noche Él lo protegió con su fulgor y expulsó con su espada a los seres de la noche. Al fin el hombre durmió y pudo ver como El Señor de la Mañana caminaba hacia el horizonte y su halo se convertía en el sol del amanecer.</p>
+
+<p><b>La reliquia</b></p>
+<p>Un día, El Señor de la Mañana vió que sobre su dominio había una oscuridad menguante. Decidido, tomó uno de sus rojos rizos de cabello y lo frotó entre sus dedos hasta convertirlo en un rubí. Lo puso en la palma de su mano y le dió su aliento hasta que volutas de oro y plata se arremolinaron a su alrededor, formando un amuleto con forma de sol. El Señor de la Mañana buscó entre sus fieles al mas ardiente en su fe y mandó un ángel a llevarle el amuleto, Su regalo para la humanidad.</p>
+<p>El ángel buscó al guerrero santo y adoptando la forma de un cuervo le entregó el regalo sagrado, un santo símbolo de paternidad sobre los humanos. Se desconoce el nombre real de este guerrero santo, pero se sabe que se enfrentó incesantemente a las fuerzas de la oscuridad y formó un séquito de adoradores del Señor de la Mañana que un día habría de convertirse en el clero oficial.</p>
+
+
+<p><b>Mandatos</b></p>
+
+<p>El Señor de la Mañana dice:</p>
+
+<ul>
+<li>Esfuérzate siempre en ayudar, en alentar nuevas esperanzas, nuevas ideas y nueva prosperidad para toda la humanidad y sus aliados.</li>
+<li>Es una obligación sagrada promover el nuevo desarrollo, cuidar de las cosas que crecen y trabajar para el renacer y la renovación.</li>
+<li>Perfecciónate y sé fértil de mente y cuerpo.</li>
+<li>Donde quiera que vayas planta en las mentes de todos semillas de esperanza, nuevas ideas y planes para un futuro prometedor.</li>
+<li>Observa cada amanecer.</li>
+<li>Considera las consecuencias de tus acciones para que el menos de tus esfuerzos pueda lograr la mayor y mejor de las recompensas.</li>
+<li>Evita la negatividad, pues de la muerte viene la vida, y siempre habrá un nuevo día en el que podrás convertir un fracaso en un éxito.</li>
+<li>Concede mayor importancia a las actividades que ayudan a los demás, que a la estricta adhesión a las reglas, rituales y dictados de tus mayores.</li>
+</ul>
+
+
+
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
+<guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 12 Aug 2022 08:41:18 -0300</pubDate></item>
+<item><title>
+La Maldición de Strahd
+</title><description><![CDATA[
+<img src="img/escena.png">
+
+<p><h2>Recursos:</h2></p>
+
+<ul>
+<li><a href="tag_strahd-booklet.html">Booklets</a></li>
+<li><a href="lectura-del-tarokka.html">Lecturas del Tarokka</a></li>
+</ul>
+
+<p><h2>Cronología:</h2></p>
+
+<ol>
+	<li><b>22/05/2022:</b> Llegan a Barovia habiendo recibido cartas de un juego desconocido <i>(Krit: Marioneta, Narudiel: Paladin, Cafrune: Cuervo, Vondal: Bestia, Gerold: Adivina)</i>. Los Vistani les dicen que visiten a Madame Eva. Rosa y Espino los hacen entrar en la Mansión Durst y al llegar al 3er piso todo cambia...</li>
+	<li><b>05/06/2022:</b> Descubren la malvada naturaleza de la mansión. Un espectro casi mata a Narudiel. Obtienen la escritura del Molino Durst.</li>
+	<li><b>20/06/2022:</b> Descubren los cuerpos de Rosa y Espino, encuentran un acceso secreto al sótano, dejan descansando los cuerpos de R y E. Encuentran a Sophaxis el perro nomuerto. Descubren una estatua de Strahd y un altar rodeado de agua.</li>
+	<li><b>03/07/2022:</b> Una grotesca criatura compuesta de varios cuerpos fusionados los ataca, pero la derrotan. Huyen de la mansión mientras la misma colapsa sobre si misma. Strahd se aparece ante Narudiel. Llegan a Barovia. Compran un mapa a Stregg, el buhonero. Conocen a Ismark y hablan sobre Ireena.</li>
+	<li><b>17/07/2022:</b> Arreglan pedir ayuda al cura Donavich a organizar el funeral de Kolyan Indirovich, padre de Ismark e Ireena; pero descubren que su hijo (Dooru) es un vampiro al cual alimenta con pueblerinos. Matan a Dooru. Ismark les cuenta que la gente venía desapariendo y que otros se convierten en zombie. Ismark les cuenta que Kolyan murió de miedo porque Strahd enviaba esbirros a hostigarlo por no entregarle a Ireena. Ismark les pide que lleven a Ireena a Vallaki.</li>
+	<li><b>07/08/2022:</b> El cura Donavich admite sus crímenes, descubren que la zombificación de los Barovianos es provocada por zombies en un pozo de agua. Vondal lleva a cabo el funeral de Kolyan Indirovich. Deciden hacer pasar a Ireena por un miembro del grupo</li>
+	<li><b>21/08/2022:</b>El cura Piotr Donavich es ejecutado (Ismark tira de la palanca para activar el patíbulo). Deciden renombrar a Ireena como Melina, quien ahora viste con pelo suelto, pantalones de montar y peto de armadura. Parten hacia la laguna Tser a cuyas orillas está el campamento Vistani. Ahí, Madame Eva les hace una lectura personalizada. Pueden ver las lecturas <a href="lectura-del-tarokka.html">aquí.</a></li>
+</ol>	
+
+
+<p>Etiquetas:</p>
+
+
 
 
 
@@ -153,94 +305,5 @@ La Maldición de Strahd
 ]]></description><link>https://monguito.github.io/web//la-maldicion-de-strahd.html</link>
 <guid>https://monguito.github.io/web//./la-maldicion-de-strahd.html</guid>
 <dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 12:02:40 -0300</pubDate></item>
-<item><title>
-Booklet: Milagros de San Andral
-</title><description><![CDATA[
-
-<p><b>Milagros de San Andral</b>, Por Milos Vikernes</b></p>
-
-<p>Los estudiosos de su obra, y múltiples discípulos dicen que San Andral era poderoso en obras y en palabras. Su cuerpo habitaba esta tierra, pero su alma vivía en los cielos, iluminado por el Señor de la Mañana.</p>
-<p>San Andral, por entonces, declaraba que “el gran peligro del creyente es predicar y no practicar, creer pero no vivir de acuerdo con lo que se cree”. También decía que “El Señor de la Mañana ablanda los corazones duros; si lo invocas, endulzas las tentaciones amargas; si piensas en él, te ilumina el corazón; si lo lees, te sacia la mente”.</p>
-<p>En una oportunidad se encontró cara a cara con el Burgomaestre de Berez, que había perpetrado una terrible masacre entre sus súbditos. Cuando Andral lo vió, le dijo: “Oh, enemigo del Señor de la Mañana, tirano despiadado, perro rabioso, ¿hasta cuándo seguirás derramando sangre inocente? ¡Escucha bien, pende sobre tu cabeza la sentencia del Señor, terrible y durísima!”.
-Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al joven y atrevido Andral, el Burgomaestre los desconcertó a todos al ordenar que el religioso fuera alejado de allí sin violencia. Para explicar su proceder, el tirano les explicó: “Compañeros, no os asombréis. Os digo con toda verdad, que he visto emanar del rostro de este padre el fulgor divino, que me ha aterrado a tal punto que tenía la sensación de precipitar en el caos. Nunca mas me asomaré a la oscuridad”. El Burgomaestre se dedicó a obtener el perdón del Señor de la Mañana y el pueblo de Berez progresó como nunca durante su mandato.</p>
-<p>En una ocasión, cuando los guardias de un mercader de Barovia le impedían al pueblo acudir a sus sermones, Andral se fue a la orilla del lago y proclamó: “Dado que son indignos de la Palabra del Señor de la Mañana, he aquí que me dirijo a los peces. Oigan la palabra de Dios, Uds. los pececillos, ya que los pecadores de la tierra no la quieren escuchar”. Y los peces afloraron por centenares, ordenados y palpitantes, a escuchar la palabra de exhortación y de alabanza. Aquel milagro fue presenciado por decenas de testigos y los herejes de Barovia tuvieron que ceder.</p>
-<p>Hubo una noche en que el Burgomaestre de Vallaki no podía dormir. Decidió acercarse a la iglesia para ver si su amigo Andral estaba despierto y se percató de que la puerta entreabierta de la iglesia salía un intenso resplandor. Temiendo un incendio, empujó la puerta y quedó estupefacto con la escena que presenció: Andral, de rodillas sostenía la mano de un hombre gigante y dorado, vistiendo en rosa, amarillo y rojo que despedía un aura divina y estaba delante de él: un avatar del Señor de la Mañana. El Santo posteriormente le advirtió al Burgomaestre que callara lo que había presenciado, y que lo divulgara sólo hasta que él hubiera muerto, un suceso que iba a ocurrir más temprano que tarde.</p>
-<p>Andral además portaba un símbolo sagrado que se dice había pertenecido al paladín de las leyendas llamado Lugdana, famoso por expulsar nidos enteros de nomuertos. Este símbolo sagrado tenía la forma del sol, en platino y oro, con un gran cristal carmesí en su centro.
-<p>De acuerdo a las leyendas, el amuleto fue entregado a Lugdana por un cuervo, un ángel en forma de cuervo, o un ángel con alas de cuervo según algunas traducciones. De ahí que comunmente se lo conozca como el símbolo sagrado de los cuervos, o el símbolo sagrado de los amigos de los cuervos.</p>
-<p>Se vió a Andral portar el símbolo y usarlo en enfrentamientos, incluso pudiendo detener inmóbil e indefenso al Diablo Strahd.</p>
-<p>En la actualidad se desconoce el paradero de esta santa reliquia de inconmesurable valor. Muchas partidas y expediciones se hicieron en su búsqueda sin dar con él.</p>
-
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//booklet-milagros-de-san-andral.html</link>
-<guid>https://monguito.github.io/web//./booklet-milagros-de-san-andral.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 11:47:40 -0300</pubDate></item>
-<item><title>
-Booklet: El Señor de la Mañana
-</title><description><![CDATA[
-
-
-<p><b>El amanecer</b></p>
-	
-<p>El Señor de la Mañana es la deidad del rosado amanecer que marca el final de cada noche.</p>
-<p>Nuestro señor pide poco de nosotros, mas que seamos amables con el prójimo y mantengamos la esperanza en nuestros corazones. Él nos enseña a tener esperanza por un nuevo amanecer, sin importar cuan poco prometedor parezca el futuro, sin importar cuán oscura sea la noche... el amanecer siempre llega.</p>
-<p>El Señor de la Mañana bendice a quienes plantan nueva vida y destierran la maldad de la cara del mundo, y se regocija en la juvenil vitalidad y en las primaveras bien invertidas en mejorar nuestras vidas.</p>
-<p>El Señor de la Mañana llegó a nuestras tierras ayudando a un pobre hombre perdido en la noche. Él lo protegió de aquello que susurraba en las sombras. Durante toda la noche Él lo protegió con su fulgor y expulsó con su espada a los seres de la noche. Al fin el hombre durmió y pudo ver como El Señor de la Mañana caminaba hacia el horizonte y su halo se convertía en el sol del amanecer.</p>
-
-<p><b>La reliquia</b></p>
-<p>Un día, El Señor de la Mañana vió que sobre su dominio había una oscuridad menguante. Decidido, tomó uno de sus rojos rizos de cabello y lo frotó entre sus dedos hasta convertirlo en un rubí. Lo puso en la palma de su mano y le dió su aliento hasta que volutas de oro y plata se arremolinaron a su alrededor, formando un amuleto con forma de sol. El Señor de la Mañana buscó entre sus fieles al mas ardiente en su fe y mandó un ángel a llevarle el amuleto, Su regalo para la humanidad.</p>
-<p>El ángel buscó al guerrero santo y adoptando la forma de un cuervo le entregó el regalo sagrado, un santo símbolo de paternidad sobre los humanos. Se desconoce el nombre real de este guerrero santo, pero se sabe que se enfrentó incesantemente a las fuerzas de la oscuridad y formó un séquito de adoradores del Señor de la Mañana que un día habría de convertirse en el clero oficial.</p>
-
-
-<p><b>Mandatos</b></p>
-
-<p>El Señor de la Mañana dice:</p>
-
-<ul>
-<li>Esfuérzate siempre en ayudar, en alentar nuevas esperanzas, nuevas ideas y nueva prosperidad para toda la humanidad y sus aliados.</li>
-<li>Es una obligación sagrada promover el nuevo desarrollo, cuidar de las cosas que crecen y trabajar para el renacer y la renovación.</li>
-<li>Perfecciónate y sé fértil de mente y cuerpo.</li>
-<li>Donde quiera que vayas planta en las mentes de todos semillas de esperanza, nuevas ideas y planes para un futuro prometedor.</li>
-<li>Observa cada amanecer.</li>
-<li>Considera las consecuencias de tus acciones para que el menos de tus esfuerzos pueda lograr la mayor y mejor de las recompensas.</li>
-<li>Evita la negatividad, pues de la muerte viene la vida, y siempre habrá un nuevo día en el que podrás convertir un fracaso en un éxito.</li>
-<li>Concede mayor importancia a las actividades que ayudan a los demás, que a la estricta adhesión a las reglas, rituales y dictados de tus mayores.</li>
-</ul>
-
-
-
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
-<guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 08:41:18 -0300</pubDate></item>
+<pubDate>Thu, 11 Aug 2022 20:15:18 -0300</pubDate></item>
 </channel></rss>
