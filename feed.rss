@@ -2,9 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
 <description>La cueva del rol</description><language>en</language>
-<lastBuildDate>Mon, 31 Oct 2022 11:39:10 -0300</lastBuildDate>
-<pubDate>Mon, 31 Oct 2022 11:39:10 -0300</pubDate>
+<lastBuildDate>Mon, 31 Oct 2022 11:52:53 -0300</lastBuildDate>
+<pubDate>Mon, 31 Oct 2022 11:52:53 -0300</pubDate>
 <atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Norberto Von Zarovich, Psicólogo
+</title><description><![CDATA[
+<img src="img/jung.jpg">
+
+<p>Norberto Von Zarovich es psicólogo clínico recibido en la Universidad de Barovia. Cada cierta cantidad de sesiones los jugadores deberán contarle cómo se sienten en Barovia con respecto a sus vidas, anhelos y afectos.</p><p> A continuación, notas que tomó Norberto sobre los personajes </p>
+
+<ol>
+<li><ul>
+	<li>Krit'Snik siente una fascinación horrible por todo lo que pasa acá.</li>
+	<li>Cafrune siente que está en el infierno. Amargado. Incluso se siente seguro en las ciudades.</li>
+	<li>Vondal se siente motivado y atribuye una razón divina para los hechos.</li>
+	<li>Narudiel tiene ganas de irse, pero siente que el destino lo trajo para ayudar.</li>
+	<li>Gerold ausente.</li>
+</ul></li>
+</ol>
+
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//norberto-von-zarovich-psicologo.html</link>
+<guid>https://monguito.github.io/web//./norberto-von-zarovich-psicologo.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Mon, 31 Oct 2022 11:44:17 -0300</pubDate></item>
 <item><title>
 Booklet: Vida de San Andral
 </title><description><![CDATA[
@@ -42,6 +67,7 @@ Booklet: Vida de San Andral
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-vida-de-san-andral.html</link>
 <guid>https://monguito.github.io/web//./booklet-vida-de-san-andral.html</guid>
@@ -70,6 +96,7 @@ Booklet: Epístola de Santa Markovia
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-epistola-de-santa-markovia.html</link>
@@ -107,6 +134,7 @@ Sesión 7, 21/08/2022
 </ul>
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
 
 
 
@@ -159,6 +187,7 @@ Booklet: Fatas de Barovia, Tomo I
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
 <guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
@@ -183,6 +212,7 @@ Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al 
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -254,6 +284,7 @@ Booklet: El Señor de la Mañana
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
 <guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
@@ -290,6 +321,7 @@ La Maldición de Strahd
 
 
 <p>Etiquetas:</p>
+
 
 
 
