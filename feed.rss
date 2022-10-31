@@ -2,17 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
 <description>La cueva del rol</description><language>en</language>
-<lastBuildDate>Mon, 31 Oct 2022 10:12:34 -0300</lastBuildDate>
-<pubDate>Mon, 31 Oct 2022 10:12:34 -0300</pubDate>
+<lastBuildDate>Mon, 31 Oct 2022 11:39:10 -0300</lastBuildDate>
+<pubDate>Mon, 31 Oct 2022 11:39:10 -0300</pubDate>
 <atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Booklet: Vida de San Andral
 </title><description><![CDATA[
 
-<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
-as you exit your editor.</p>
+<p>Su vida y obra. Por Milos Vikernes</p>
+
+<p><b>El amigo del Lord</p></b>
+
+<p>Cuando Strahd aún era General de las fuerzas armadas del Rey Barov, trajo el ejército de su padre para la conquista de lo que luego se llamaría Barovia. Entre los soldados se contaba con un joven acólito del Señor de la Mañana llamado Andral. Sus sermones inspiraban a las tropas y levantaban su moral además de su fe.</p>
+
+<p>Mientras subyugaban a las tribus bárbaras y druidas nativas, Andral buscó difundir el culto a su dios entre los primitivos adoradores de la naturaleza. Era un alma bondadosa, a menudo aconsejando a su señor Strahd que moderara su ira y mostrara misericordia hacia sus enemigos. En él, Lord Strahd encontró un confidente y consejero de confianza.</p>
+
+<p><b>El desafío</p></b>
+
+<p>Andral entrenó a una protegida para que lo sucediera, una joven fogosa llamada Markovia. Se encontró en primera línea de asalto, curando y apoyándolos en la batalla. Mientras que Strahd estaba endurecido, incluso agudizado por las prolongadas campañas, Markovia parecía horrorizarse cada vez más con el sufrimiento y la injusticia de la guerra. Ella cuestionó sus métodos y motivaciones en el esfuerzo de guerra. Al principio, en privado. Pero cuando Strahd no retrocedió ante sus enemigos, criticó abiertamente la guerra y su mando. “Monstruo, depredador” fueron las palabras que usó contra él. Y por ese desafío abierto, él podría haberla ejecutado. Optó por detener su mano y recordarle que su servicio en el ejército era voluntario. Aunque Andral trató de mediar en la disputa, Markovia abandonó su encargo y fundó una abadía cerca del campamento en Krezkov, hoy llamado Krezk.</p>
+
+
+<p><b>El desenlace</p></b>
+
+<p>Cuando el ahora Conde Strahd von Zarovich, regente de las tierras de Barovia pacificó a los elfos paganos del bosque, Andral creyó que necesitaban que se les mostrara la luz del Señor de la Mañana y que abandonaran su práctica primitiva de adoración abstracta de la naturaleza. Cuando Lord Strahd derribó al poderoso dragón plateado Argynvost y eliminó las fuerzas disidentes de su orden de caballeros, Andral guardó un profundo silencio. Se dice que la relación con S.M. se marchitó. Poco después, él también lo abandonó. Andral se estableció en la aldea en desarrollo que se llamaría Vallaki.</p>
+
+<p>Cuando fue anunciada la trágica boda real entre el infante Sergei von Zarovich y Tatyana Fedorovna, Markovia y Andral rechazaron en público las invitaciones.</p>
+
+<p>Luego del doble funeral de SS. MM. Sergei y Tatyana, y pasado cierto tiempo de duelo, Strahd hizo una visita a Vallaki para hablar con Andral, pero se encontró con una milicia formada por él y Markovia, junto a los prueblos druidas y algunas decenas de cambiaformas lo emboscaron y prontamente redujeron a los engendros y guardias.</p>
+
+<p>Se desconoce si es verídico, pero varias fuentes documentan la misma historia: Andral presentó un antiguo símbolo sagrado de luz ante Strahd, quien quedó detenido en su lugar, inmóvil mientras era atacado, en una enorme agonía. Pero Andral vió el miedo y dolor en los ojos de su antiguo amigo y tuvo piedad. Strahd se convirtió en niebla y huyó para regresar semanas después y ejecutar un ataque certero que diezmó las fuerzas de Andral y Markovia y terminó con la vida del viejo amigo del Conde.</p>
+
+<p>El cuerpo de Andral fue velado en la iglesia de Vallaki. Centenares asistieron en procesión y muestra de respeto, fomentando en los corazones del pueblo una animosidad violenta contra Strahd.</p> 
+
+<p>Durante doscientos dias el cuerpo de Andral estuvo expuesto en la iglesia, sin sufrir corrupción o deterioro alguno, cumpliendo así su primer milagro: Andral profesaba que el mal debía ser expuesto, y su cuerpo inerte era la muestra de las acciones del nuevo gran mal de estas tierras.</p>
+
+<p>Una vez en su cripta, el cuerpo de Andral tuvo el destino normal de todos los cuerpos terrenales.</p>
+
+
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-vida-de-san-andral.html</link>
 <guid>https://monguito.github.io/web//./booklet-vida-de-san-andral.html</guid>
@@ -22,15 +51,214 @@ as you exit your editor.</p>
 Booklet: Epístola de Santa Markovia
 </title><description><![CDATA[
 
-<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
-as you exit your editor.</p>
+<p>Por Ferenc Uzunov, primer apóstol de Santa Markovia</p>
+
+<p><b>Orígenes</b></p>
+<p>La vida de Alizandra Markovia fue bendecida y única desde la concepción. Su padre, Toma Markovia, era un leñador que pasaba largas semanas fuera de casa mientras talaba. Su madre, Steliana Antonescu, trabajaba como pastora y partera en Krezk. Llevaban casados casi treinta años y Steliana nunca había podido llevar un bebé a término a pesar de sus esfuerzos por crear una familia. Después de muchos intentos y abortos espontáneos devastadores, los dos habían perdido la esperanza de tener un hijo propio. </p>
+<p>Una noche, sin embargo, Steliana tuvo una visión. Detalló la visión en su diario. Un hombre, bañado por la luz del sol, vestido con una túnica blanca y una corona dorada, descendió de las nubes. Él se acercó a ella, tomándola en sus brazos. Él le dijo que Él era el Señor de la Mañana, el Señor del Nacimiento y la Renovación, y el Mentor de la Autoperfección. Puso en el vientre de Steliana a una niña que llevaba un hilo de Su Propia Dorada Gloria. Esta niña haría grandes cosas, le dijo a Steliana, y cientos seguirían su liderazgo. </p>
+<p>Cuando era joven, siguió lo que su corazón le dictaba y se convirtió en sacerdotisa del Señor de la Mañana poco después de cumplir dieciseis años. Demostró ser carismática y devota, de manera que antes de los treinta años ya se había granjeado la reputación de ser inflexible para con el mal. Era un faro de esperanza en un mundo que a menudo era oscuro y estaba lleno de peligros. Markovia siempre había visto al Diablo Strahd como un tirano loco, pero solo después de su transformación en vampiro, se atrevió a desafiarlo.</p>
+
+
+<p><b>El Tirano</b></p>
+<p>Mientras Markovia y Andral reunían a sus seguidores y se preparaba para marchar sobre el Castillo Ravenloft, Strahd envió un grupo de engendros vampíricos a su abadía. Se enfrentaron a la mujer, y uno por uno fueron destruídos, pero en el proceso asesinaron a Andral, el sacerdote líder del culto al Señor de la Mañana, protector y mentor de Markovia.</p>
+<p>Markovia, indignada por la muerte de Andral a manos del Diablo Strahd, marchó con una pequeña fuerza de clérigos y campeones armados y atravesó las puertas del Castillo Ravenloft. Nunca se havía visto una ferocidad tan celosa en la batalla como cuando esa mujer empuñó su maza contra el Señor Oscuro. Combatieron desde las catacumbas hasta los parapetos, y canalizó la ira ardiente de su dios a través de su instrumento marcial. Poco pudo hacer Strahd mas que recibir los golpes indignado, y a duras penas sobrevivir al ataque. Se estipula que de haberse sucedido el combate en cualquier otro lado que no fuese la guarida de Ravenloft, Markovia habría salido victoriosa con toda seguridad.</p>
+<p>Strahd se ocultó unos momentos entre el mortero de las paredes del castillo y de alguna forma se recuperó lo suficiente como para retomar la pelea y extinguir la llama ardiente del fervor de Santa Markovia. Quienes sobrevivieron ese día dijeron que Strahd dió una muerte de héroe a Santa Markovia, y la trató con el mayor de los respetos. Se negó a devolver el cuerpo de nuestra santa alegando que le daría sepulcro en las criptas del castillo. Distintos eruditos siguen debatiendo si éste es un gesto de admiración por parte de Strahd ante un enemigo memorable, o un acto profano y de miserable.</p>
+<p>Lo que nadie discute es que durante mucho tiempo el Diablo Strahd sufrió una cojera indisimulable y una mueca de dolor con cada paso que daba.</p>
+
+<p><b>Legado</b></p>
+<p>Se dice que la escencia de la santidad de Markovia quedó impregnada en parte en sus huesos cuando el resto de su cuerpo se descompuso. Su fémur, el cual está embebido de una poderosa fuerza celestial, fue extraído de las criptas de Ravenloft por los escaramuzadores de S'mirk el Sucio, el licántropo rata. Se dice que éste fue quien los decoró con las gemas y el trabajo de plata, que hoy dia posee. La reliquia volvió a las manos de Strahd una vez que S'mirk y sus escaramuzadores fueron eliminados.</p>
+
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-epistola-de-santa-markovia.html</link>
 <guid>https://monguito.github.io/web//./booklet-epistola-de-santa-markovia.html</guid>
 <dc:creator>Compi</dc:creator>
 <pubDate>Mon, 31 Oct 2022 10:11:40 -0300</pubDate></item>
+<item><title>
+Lectura del Tarokka
+</title><description><![CDATA[
+
+<h4><i>"Las cartas tienen significados. Mi tarea es interpretarlas lo mejor posible, pero no es algo exacto, sino mas bien profético."</i> &mdash; Madame Eva</h4>
+
+<h1>Lectura Personal</h1>
+Sesión 7, 21/08/2022
+
+<ul>
+	<li><b>Gerold (DIVINER):</b><i>(Le ofrece té de Cilantro, el preferido de Gerold) La de la carta soy yo. Su carta es simple de comprender, usted es el líder natural del equipo, su misión era convencerlos de que los demás lleguen a mí y a partir de ahora, el de guiarlos. Incluso a <b>ella.</b> Eso es todo, señor Proudbottom.</i></li>
+	<li><b>Cafrune (RAVEN):</b><i>En Barovia aún hay quienes se resisten al mal. Potenciales aliados esperan una ayuda de las fuerzas naturales.</i></li>
+	<li><b>Vondal (BEAST):</b><i>(Se dirige a Vondal por el apellido real). En Barovia también hay problemas con gemas. Pero al recuperarlas no van a liberar bestias como en su caso, sino contenerlas. Quizá lo que aprenda en estas tierras sirva para luchar contra aquello que lo atormenta</i></li>
+	<li><b>Krit'Snik (MARIONETTE):</b><i>Aquello que mas te intriga, lo que mueve tu corazón, está en Barovia. Esa cosa es un ser malvado porque así se le creó, pero puede aprender de alguien mejor, como Ud.</i></li>
+	<li><b>Narudiel (PALADIN):</b><i>(Aquí no hay nada de valor para robar) Un paladín está desesperado, en una carrera contra el tiempo para encontrar la forma de ayudar a su familia. Entiendo que la familia es importante para ud. Ayudar a este paladín traerá luz al mundo.</i></li>
+</ul>
+
+<h1>Lectura Grupal</h1>
+Sesión 7, 21/08/2022
+
+<p><i>Madame Eva recibe las cartas que cada uno tenía en su poder y las baraja con las demás de su mazo. Toma 5 cartas y las coloca en forma de cruz en la mesa.</i></p>
+
+<ul>
+	<li><b>Izquierda: </b><i>Esta es una carta de fuerza y poder. Habla de un arma forjada para consumar una venganza: una espada que atesora la luz del sol. Podrán encontrarla bajo una montaña de tesoros, más allá de un par de <u>puertas de ámbar.</u></i></li>
+	<li><b>Arriba: </b><i>Esta carta hace hincapié en los hechos históricos. Dice que el conocimiento de la antigüedad les ayudará a comprender mejor a su enemigo. Lo que buscan... lo veo en una <u>aldea muerta, inundada por un río</u>, gobernada por alguien que ha traído una gran maldad al mundo.</i></li>
+	<li><b>Derecha: </b><i>Esta carta habla de una poderosa fuerza del bien y la protección, un símbolo sagrado que infunde gran esperanza. Lo podrán encontrar escondido detrás del sol, <u>en la casa de un santo.</u></i></li>
+	<li><b>Abajo: </b><i>Esta carta arroja luz sobre alguien que les ayudará generosamente en su batalla contra la oscuridad. Este aliado será un <u>gran mago.</u> Su mente está destrozada, pero sus conjuros son poderosos.</i></li>
+	<li><b>Centro: </b><i>Su enemigo es una criatura de la oscuridad, cuyos poderes van más allá de la mortalidad. ¡Esta carta conduce hasta él! Cuando sea el momento indicado lo podrán encontrar ahí: en <u>la tumba de la madre.</u></i></li>
+</ul>
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//lectura-del-tarokka.html</link>
+<guid>https://monguito.github.io/web//./lectura-del-tarokka.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Tue, 23 Aug 2022 22:25:44 -0300</pubDate></item>
+<item><title>
+Booklet: Fatas de Barovia, Tomo I
+</title><description><![CDATA[
+
+<b>Fatas de Barovia: Un acercamiento histórico</b>. Tomo I
+
+<p><b>Una breve historia</b></p>
+
+<p>Mucho antes de que S.M. Lord Strahd v. Zarovich llegara y civilizara el valle, Barovia fue una vez una tierra salvaje. El valle estaba poblado en gran parte por aldeas familiares dispersas, generalmente no más grandes que un par de docenas de personas que vivían en tres o cuatro casas por aldea. Estas personas estaban acostumbradas al duro paisaje y, en general, eran personas cordiales y un tanto bárbaras. Además, también había grupos de gente del bosque que vivían en la naturaleza y no se asentaron. La gente asentada y la gente del bosque han tenido una relación famosamente tumultuosa a lo largo de los siglos, con períodos de odio y períodos de paz esparcidos a lo largo de la historia.</p>
+<p>En un sentido general, la tierra se dividió en tres territorios o ambientes templo: El templo del Pantano, el templo del Bosque y el templo de la Montaña. Esta no es una definición exacta, pero por el bien de esta historia, es la forma más fácil de imaginarlos.</p>
+
+<p><b>Las tres Damas</b></p>
+
+<p>Los residentes originales del valle adoraban a un trío de Archifatas hermanas que estaban mágicamente conectadas con los tres fanes de la tierra. Debido a su naturaleza mágica, estas Archifatas eran literalmente "la tierra". Ellas eran:</p>
+
+<ul>
+<li>La Cazadora, del templo de la montaña, la hermana mayor.</li>
+<li>La Buscadora, del templo del bosque, la hermana del medio.</li>
+<li>La Tejedora, del templo del pantano, la hermana menor.</li>
+</ul>
+
+<p>Las Damas casi nunca se mostraban a las personas que las adoraban. En cambio, aparecían en augurios, sueños y presagios, hablando a través de la boca de los animales y en el viento que acariciaba las hojas de los árboles.</p>
+
+<p><b>Los templos</b></p>
+
+<p>La gente del valle solía adorar a las Damas a través de una serie de adoratorios esparcidos por la tierra, algunos pequeños y otros grandes. Los tres santuarios más destacados estaban ubicados dentro de grandes círculos de piedra, de los cuales sospecho conocer el paradero de al menos dos. Según mi investigación:</p>
+
+<ul>
+<li>El santuario del pantano es el círculo de piedras en Berez.</li>
+<li>El santuario de la montaña es el círculo en la cima de la Colina del Ayer.</li>
+<li>Y el santuario del bosque es probable que sea la colección de monolitos detrás del Molino Durst, aunque no es seguro.</li>
+</ul>
+
+<p>Las ruinas de Berez y la Colina del ayer son lugares difíciles para hacer mis investigaciones y mucho mas difícil es conseguir acompañantes. Sobre el santuario del bosque, sospecho que fue dañado por el paso del tiempo, la cercanía a caminos habituales y las visicitudes de la vida en civilización.</p>
+
+<p><b>Culto</b></p>
+
+<p>El culto a las Damas generalmente se presentaba en forma de ofrendas y prácticas religiosas menores. Es fácil imaginar horribles sacrificios de sangre para este culto, sin embargo, ese no es el caso aquí. Las ofrendas solían ser cosas como: Los mejores frutos de la primera cosecha o las astas de un ciervo que matado en la caza. A veces, la gente dejaba pequeñas estatuas talladas u otras piezas de trabajo artístico.</p>
+<p>Las investigaciones arqueológicas e históricas nos permiten deducir que las prácticas solían ser comuniones con la naturaleza, donde la gente se adentraba en los bosques y vivía completamente sola con respeto por las Damas. Los que sobrevivieron regresarían a casa espiritualmente despiertos. Otros rituales eran largas noches dedicadas al respeto y la adoración o peregrinaciones por todo el pueblo a los principales santuarios.</p>
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
+<guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 12 Aug 2022 12:12:24 -0300</pubDate></item>
+<item><title>
+Booklet: Milagros de San Andral
+</title><description><![CDATA[
+
+<p><b>Milagros de San Andral</b>, Por Milos Vikernes</b></p>
+
+<p>Los estudiosos de su obra, y múltiples discípulos dicen que San Andral era poderoso en obras y en palabras. Su cuerpo habitaba esta tierra, pero su alma vivía en los cielos, iluminado por el Señor de la Mañana.</p>
+<p>San Andral, por entonces, declaraba que “el gran peligro del creyente es predicar y no practicar, creer pero no vivir de acuerdo con lo que se cree”. También decía que “El Señor de la Mañana ablanda los corazones duros; si lo invocas, endulzas las tentaciones amargas; si piensas en él, te ilumina el corazón; si lo lees, te sacia la mente”.</p>
+<p>En una oportunidad se encontró cara a cara con el Burgomaestre de Berez, que había perpetrado una terrible masacre entre sus súbditos. Cuando Andral lo vió, le dijo: “Oh, enemigo del Señor de la Mañana, tirano despiadado, perro rabioso, ¿hasta cuándo seguirás derramando sangre inocente? ¡Escucha bien, pende sobre tu cabeza la sentencia del Señor, terrible y durísima!”.
+Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al joven y atrevido Andral, el Burgomaestre los desconcertó a todos al ordenar que el religioso fuera alejado de allí sin violencia. Para explicar su proceder, el tirano les explicó: “Compañeros, no os asombréis. Os digo con toda verdad, que he visto emanar del rostro de este padre el fulgor divino, que me ha aterrado a tal punto que tenía la sensación de precipitar en el caos. Nunca mas me asomaré a la oscuridad”. El Burgomaestre se dedicó a obtener el perdón del Señor de la Mañana y el pueblo de Berez progresó como nunca durante su mandato.</p>
+<p>En una ocasión, cuando los guardias de un mercader de Barovia le impedían al pueblo acudir a sus sermones, Andral se fue a la orilla del lago y proclamó: “Dado que son indignos de la Palabra del Señor de la Mañana, he aquí que me dirijo a los peces. Oigan la palabra de Dios, Uds. los pececillos, ya que los pecadores de la tierra no la quieren escuchar”. Y los peces afloraron por centenares, ordenados y palpitantes, a escuchar la palabra de exhortación y de alabanza. Aquel milagro fue presenciado por decenas de testigos y los herejes de Barovia tuvieron que ceder.</p>
+<p>Hubo una noche en que el Burgomaestre de Vallaki no podía dormir. Decidió acercarse a la iglesia para ver si su amigo Andral estaba despierto y se percató de que la puerta entreabierta de la iglesia salía un intenso resplandor. Temiendo un incendio, empujó la puerta y quedó estupefacto con la escena que presenció: Andral, de rodillas sostenía la mano de un hombre gigante y dorado, vistiendo en rosa, amarillo y rojo que despedía un aura divina y estaba delante de él: un avatar del Señor de la Mañana. El Santo posteriormente le advirtió al Burgomaestre que callara lo que había presenciado, y que lo divulgara sólo hasta que él hubiera muerto, un suceso que iba a ocurrir más temprano que tarde.</p>
+<p>Andral además portaba un símbolo sagrado que se dice había pertenecido al paladín de las leyendas llamado Lugdana, famoso por expulsar nidos enteros de nomuertos. Este símbolo sagrado tenía la forma del sol, en platino y oro, con un gran cristal carmesí en su centro.
+<p>De acuerdo a las leyendas, el amuleto fue entregado a Lugdana por un cuervo, un ángel en forma de cuervo, o un ángel con alas de cuervo según algunas traducciones. De ahí que comunmente se lo conozca como el símbolo sagrado de los cuervos, o el símbolo sagrado de los amigos de los cuervos.</p>
+<p>Se vió a Andral portar el símbolo y usarlo en enfrentamientos, incluso pudiendo detener inmóbil e indefenso al Diablo Strahd.</p>
+<p>En la actualidad se desconoce el paradero de esta santa reliquia de inconmesurable valor. Muchas partidas y expediciones se hicieron en su búsqueda sin dar con él.</p>
+
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-milagros-de-san-andral.html</link>
+<guid>https://monguito.github.io/web//./booklet-milagros-de-san-andral.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 12 Aug 2022 11:47:40 -0300</pubDate></item>
+<item><title>
+Booklet: El Señor de la Mañana
+</title><description><![CDATA[
+
+
+<p><b>El amanecer</b></p>
+	
+<p>El Señor de la Mañana es la deidad del rosado amanecer que marca el final de cada noche.</p>
+<p>Nuestro señor pide poco de nosotros, mas que seamos amables con el prójimo y mantengamos la esperanza en nuestros corazones. Él nos enseña a tener esperanza por un nuevo amanecer, sin importar cuan poco prometedor parezca el futuro, sin importar cuán oscura sea la noche... el amanecer siempre llega.</p>
+<p>El Señor de la Mañana bendice a quienes plantan nueva vida y destierran la maldad de la cara del mundo, y se regocija en la juvenil vitalidad y en las primaveras bien invertidas en mejorar nuestras vidas.</p>
+<p>El Señor de la Mañana llegó a nuestras tierras ayudando a un pobre hombre perdido en la noche. Él lo protegió de aquello que susurraba en las sombras. Durante toda la noche Él lo protegió con su fulgor y expulsó con su espada a los seres de la noche. Al fin el hombre durmió y pudo ver como El Señor de la Mañana caminaba hacia el horizonte y su halo se convertía en el sol del amanecer.</p>
+
+<p><b>La reliquia</b></p>
+<p>Un día, El Señor de la Mañana vió que sobre su dominio había una oscuridad menguante. Decidido, tomó uno de sus rojos rizos de cabello y lo frotó entre sus dedos hasta convertirlo en un rubí. Lo puso en la palma de su mano y le dió su aliento hasta que volutas de oro y plata se arremolinaron a su alrededor, formando un amuleto con forma de sol. El Señor de la Mañana buscó entre sus fieles al mas ardiente en su fe y mandó un ángel a llevarle el amuleto, Su regalo para la humanidad.</p>
+<p>El ángel buscó al guerrero santo y adoptando la forma de un cuervo le entregó el regalo sagrado, un santo símbolo de paternidad sobre los humanos. Se desconoce el nombre real de este guerrero santo, pero se sabe que se enfrentó incesantemente a las fuerzas de la oscuridad y formó un séquito de adoradores del Señor de la Mañana que un día habría de convertirse en el clero oficial.</p>
+
+
+<p><b>Mandatos</b></p>
+
+<p>El Señor de la Mañana dice:</p>
+
+<ul>
+<li>Esfuérzate siempre en ayudar, en alentar nuevas esperanzas, nuevas ideas y nueva prosperidad para toda la humanidad y sus aliados.</li>
+<li>Es una obligación sagrada promover el nuevo desarrollo, cuidar de las cosas que crecen y trabajar para el renacer y la renovación.</li>
+<li>Perfecciónate y sé fértil de mente y cuerpo.</li>
+<li>Donde quiera que vayas planta en las mentes de todos semillas de esperanza, nuevas ideas y planes para un futuro prometedor.</li>
+<li>Observa cada amanecer.</li>
+<li>Considera las consecuencias de tus acciones para que el menos de tus esfuerzos pueda lograr la mayor y mejor de las recompensas.</li>
+<li>Evita la negatividad, pues de la muerte viene la vida, y siempre habrá un nuevo día en el que podrás convertir un fracaso en un éxito.</li>
+<li>Concede mayor importancia a las actividades que ayudan a los demás, que a la estricta adhesión a las reglas, rituales y dictados de tus mayores.</li>
+</ul>
+
+
+
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
+<guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 12 Aug 2022 08:41:18 -0300</pubDate></item>
 <item><title>
 La Maldición de Strahd
 </title><description><![CDATA[
@@ -57,7 +285,7 @@ La Maldición de Strahd
 	<br><br><i>Dama del bosque,<br>ama del verdor,<br>te ofrezco mi sacrificio,<br>pido tu bendición.<br><br>Eres el ojo en la arboleda,<br>el ciervo en la alameda,<br>el lobo en la cordillera,<br>y quien da vida a la primavera.<br>Eres a quien todo cazador aclama,<br>y de las flores la mas delicada,<br>y la sangre vital que se errama,<br>sobre el suelo cada temporada.<br><br>Dama del bosque,<br>ama del verdor,<br>te ofrezco mi sacrificio,<br>pido tu bendición.<br></i></li>
 	<li><b>18/09/2022:</b> Mientras examinan el templo bajo los monolitos, un cuervo se posa en una roca e intenta advertirles sobre peligro. Las dos mujeres que vivían en molino se acercan a mirar qué hicieron ahí y luego de desaparecer por un instante, atacan al grupo. Su apariencia es monstruosa, como de brujas. Intercambian golpes hasta que un rayo de Vondal carboniza a Ofelia de forma inesperada, dejando sólo cenizas y algunos objetos. Bella, su hermana, se hace invisible y se retira. Revisan el molino y encuentran magia extraña en la cocina y liberan a 2 niños enjaulados (Freek y Myrthle) que se encuentran bien de salud. Los niños explican como las brujas les extraen los sueños durante la noche para hacer las empanadas de ensueño. Gerold en un momento de furia destroza las jaulas y luego incendia el molino. Observan hasta que se desmorona por completo. Continúan el camino hacia Vallaki sin problemas, aunque Cafrune ve que el mismo cuervo que les avisó los sigue. Se llevan a Freek y Myrthle hacia Vallaki porque sino deberían volver atrás a Barovia a dejarlos. De todas formas Freek no quiere volver a casa porque la madre lo ofreció a las brujas. Descubren que Vallaki es una ciudad protegida por una empalizada y el Burgomaestre, Barón Vargas Vallakovich los deja pasar luego de comentarles sobre las festividades semanales que se realizan. Esta vez es sobre un sol llameante. Habrá musica, baile, comida. Disfraces y carruajes. Todo irá bien. Pasean por la ordenada y cuidada ciudad hasta el centro donde está la posada Agua Azul y ahi comen, beben y Gerold hace una excelente performance que es opacada por la aparicion del queridísimo bardo local, Rictavio. </li>
 	<li><b>02/10/2022:</b>Se alojan en la posada Agua Azul, Narudiel y Cafrune se escurren por la posada y descubren una caballeriza con una yegua y muchos cuervos. Los cuervos dicen que la posada es un punto de reunion para los cuervos y que muchas veces hay cuervos que <i>hablan otro idioma</i> a los cuales no les entienden. Ven que los hijos de Danika y Urwin Martikov, dueños de la posada se aparecieron por un lugar inesperado. Narudiel revisó las cosas de Rictavio y robó su diario para investigarlo. Vondal acepta leerlo, pero le dice que debe devolverlo. A la mañana siguiente Gerold y Narudiel quedan en la posada, Vondal y Krit'Snik van a recorrer el pueblo y hacer compras y Ireena 'Melina' Kolyanovich y Cafrune (convertido en perro) van a la casa de su pariente. Melina descubre que la casa está abandonada y temiendo una trampa, se vuelven. De camino se cruzan con un grandote pelado con un brazo deforme con espinas y garras que le grita a Ireena que no se vaya, e intenta raptarla y comienza una persecusión-combate junto con los guardias de la ciudad que apoyan al pelado. El hombre está trastornado de la desesperación diciendo cosas como "te busco hace mucho tiempo" y "te sueño todas las noches". Una vez es derrotado, dice que Ireena es su hermana.</li>
-	<li><b>30/10/2022:</b>(en desarrollo)</li>
+	<li><b>30/10/2022:</b>Inmediatamente llega el burgomaestre con parte del destacamento de guardias a ver que era el escándalo. Los escolta a su opulenta mansión donde en un clima mas relajado intenta reconstruir los hechos. No se concluye que el hombre calvo con brazo monstruoso (Izek Strazni) haya actuado fuera de la ley, sino con su habitual descortesía y falta de tacto. Obliga a Izek a dar disculpas a Ireena, Cafrune y el equipo. Izek insiste en que Ireena es su hermana dando la edad exacta en que Ireena apareció perdida en Barovia. Ireena, bien aconsejada por Gerold desvía la atención del hecho indicando diferencias físicas y redoblando con la mentira de que es Melina y siempre tuvo familia. Izek trae un dibujo en lápiz que hizo cuando era chico de la viva imagen de una niña Ireena, y aunque sorprendida, ella se mantuvo en su línea. El burgomaestre luego les pide que vayan a ver qué pasa con el Mago de los Vinos, quienes supone tuvieron problemas para enviar el cargamento. Una semana no está fuera de lo común, pero dos semanas sí. Vondal solicita una carreta y les ofrecen una con dos caballos. Partirán al amanecer del día siguiente. Krit'Snik da vueltas por el pueblo y toma nota de lugares que le interesaron. Vondal, Cafrune poliformizado en lagartija y Nadudiel visitan al padre Lucien de la iglesia de San Andral. Tienen una larga conversación que repasa historia de Barovia, la vida de San Andral, y el origen del poderoso artefacto llamado el Símbolo Sagrado de los Cuervos. Lucien no sabe donde está el artefacto, pero Cafrune y Vondal sospechan que se podría encontrar aquí mismo. Cafrune revisa el ostentorio dorado de la iglesia pero no encuentra nada. El padre Lucien le cuenta a Vondal que la iglesia está permanentemente protegida de Strahd y cualquier vampiro gracias al poder de los huesos de San Andral que protegen el lugar. Cafrune corrobora que bajo el suelo hay una caja de madera y oro con un paño de seda roja que aloja varios huesos largos y vértebras. Durante la conversación, el padre Lucien le comenta que el Abad de la iglesia de Krezk también es devoto a Moradin además de al Señor del Amanecer. Ademas, entrega a Vondal dos libros para que conozca mas sobre <a href="booklet-vida-de-san-andral.html">La vida de San Andral</a> y <a href="booklet-epistola-de-santa-markovia.html">Santa Markovia</a>. Narudiel en la iglesia escucha hablar al monaguillo sobre un tal Milivoj que trabaja ahí que faltó al trabajo. Luego se retiran de la iglesia y marchan hacia la posada, excepto Narudiel que va a visitar el orfanato de vallaki. Ahí hace una generosa donación cuando conoce a los cuidadores, Claudia Belasco y Milivoj y a los chicos. Jugando con ellos, se entera que varios comparten pesadillas y que Milivoj está sufriendo algún tipo de enfermedad. Lleva a Milivoj a la posada para que Vondal y Krit'Snik lo examinen y descubrien que está aflijido por algún tipo de maldición que le está succionando la vida. Las conclusiones son que Milivoj enfermó y al poco tiempo de que llegue Felix, el nuevo chico al orfanato y que los demás chicos tuvieron pesadillas luego de que Felix también las tuviera. Ahora temen por el bienestar de Félix...</li>
 </ol>	
 
 
@@ -153,188 +381,10 @@ La Maldición de Strahd
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//la-maldicion-de-strahd.html</link>
 <guid>https://monguito.github.io/web//./la-maldicion-de-strahd.html</guid>
 <dc:creator>Compi</dc:creator>
-<pubDate>Mon, 31 Oct 2022 10:05:03 -0300</pubDate></item>
-<item><title>
-Lectura del Tarokka
-</title><description><![CDATA[
-
-<h4><i>"Las cartas tienen significados. Mi tarea es interpretarlas lo mejor posible, pero no es algo exacto, sino mas bien profético."</i> &mdash; Madame Eva</h4>
-
-<h1>Lectura Personal</h1>
-Sesión 7, 21/08/2022
-
-<ul>
-	<li><b>Gerold (DIVINER):</b><i>(Le ofrece té de Cilantro, el preferido de Gerold) La de la carta soy yo. Su carta es simple de comprender, usted es el líder natural del equipo, su misión era convencerlos de que los demás lleguen a mí y a partir de ahora, el de guiarlos. Incluso a <b>ella.</b> Eso es todo, señor Proudbottom.</i></li>
-	<li><b>Cafrune (RAVEN):</b><i>En Barovia aún hay quienes se resisten al mal. Potenciales aliados esperan una ayuda de las fuerzas naturales.</i></li>
-	<li><b>Vondal (BEAST):</b><i>(Se dirige a Vondal por el apellido real). En Barovia también hay problemas con gemas. Pero al recuperarlas no van a liberar bestias como en su caso, sino contenerlas. Quizá lo que aprenda en estas tierras sirva para luchar contra aquello que lo atormenta</i></li>
-	<li><b>Krit'Snik (MARIONETTE):</b><i>Aquello que mas te intriga, lo que mueve tu corazón, está en Barovia. Esa cosa es un ser malvado porque así se le creó, pero puede aprender de alguien mejor, como Ud.</i></li>
-	<li><b>Narudiel (PALADIN):</b><i>(Aquí no hay nada de valor para robar) Un paladín está desesperado, en una carrera contra el tiempo para encontrar la forma de ayudar a su familia. Entiendo que la familia es importante para ud. Ayudar a este paladín traerá luz al mundo.</i></li>
-</ul>
-
-<h1>Lectura Grupal</h1>
-Sesión 7, 21/08/2022
-
-<p><i>Madame Eva recibe las cartas que cada uno tenía en su poder y las baraja con las demás de su mazo. Toma 5 cartas y las coloca en forma de cruz en la mesa.</i></p>
-
-<ul>
-	<li><b>Izquierda: </b><i>Esta es una carta de fuerza y poder. Habla de un arma forjada para consumar una venganza: una espada que atesora la luz del sol. Podrán encontrarla bajo una montaña de tesoros, más allá de un par de <u>puertas de ámbar.</u></i></li>
-	<li><b>Arriba: </b><i>Esta carta hace hincapié en los hechos históricos. Dice que el conocimiento de la antigüedad les ayudará a comprender mejor a su enemigo. Lo que buscan... lo veo en una <u>aldea muerta, inundada por un río</u>, gobernada por alguien que ha traído una gran maldad al mundo.</i></li>
-	<li><b>Derecha: </b><i>Esta carta habla de una poderosa fuerza del bien y la protección, un símbolo sagrado que infunde gran esperanza. Lo podrán encontrar escondido detrás del sol, <u>en la casa de un santo.</u></i></li>
-	<li><b>Abajo: </b><i>Esta carta arroja luz sobre alguien que les ayudará generosamente en su batalla contra la oscuridad. Este aliado será un <u>gran mago.</u> Su mente está destrozada, pero sus conjuros son poderosos.</i></li>
-	<li><b>Centro: </b><i>Su enemigo es una criatura de la oscuridad, cuyos poderes van más allá de la mortalidad. ¡Esta carta conduce hasta él! Cuando sea el momento indicado lo podrán encontrar ahí: en <u>la tumba de la madre.</u></i></li>
-</ul>
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
-
-
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//lectura-del-tarokka.html</link>
-<guid>https://monguito.github.io/web//./lectura-del-tarokka.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Tue, 23 Aug 2022 22:25:44 -0300</pubDate></item>
-<item><title>
-Booklet: Fatas de Barovia, Tomo I
-</title><description><![CDATA[
-
-<b>Fatas de Barovia: Un acercamiento histórico</b>. Tomo I
-
-<p><b>Una breve historia</b></p>
-
-<p>Mucho antes de que S.M. Lord Strahd v. Zarovich llegara y civilizara el valle, Barovia fue una vez una tierra salvaje. El valle estaba poblado en gran parte por aldeas familiares dispersas, generalmente no más grandes que un par de docenas de personas que vivían en tres o cuatro casas por aldea. Estas personas estaban acostumbradas al duro paisaje y, en general, eran personas cordiales y un tanto bárbaras. Además, también había grupos de gente del bosque que vivían en la naturaleza y no se asentaron. La gente asentada y la gente del bosque han tenido una relación famosamente tumultuosa a lo largo de los siglos, con períodos de odio y períodos de paz esparcidos a lo largo de la historia.</p>
-<p>En un sentido general, la tierra se dividió en tres territorios o ambientes templo: El templo del Pantano, el templo del Bosque y el templo de la Montaña. Esta no es una definición exacta, pero por el bien de esta historia, es la forma más fácil de imaginarlos.</p>
-
-<p><b>Las tres Damas</b></p>
-
-<p>Los residentes originales del valle adoraban a un trío de Archifatas hermanas que estaban mágicamente conectadas con los tres fanes de la tierra. Debido a su naturaleza mágica, estas Archifatas eran literalmente "la tierra". Ellas eran:</p>
-
-<ul>
-<li>La Cazadora, del templo de la montaña, la hermana mayor.</li>
-<li>La Buscadora, del templo del bosque, la hermana del medio.</li>
-<li>La Tejedora, del templo del pantano, la hermana menor.</li>
-</ul>
-
-<p>Las Damas casi nunca se mostraban a las personas que las adoraban. En cambio, aparecían en augurios, sueños y presagios, hablando a través de la boca de los animales y en el viento que acariciaba las hojas de los árboles.</p>
-
-<p><b>Los templos</b></p>
-
-<p>La gente del valle solía adorar a las Damas a través de una serie de adoratorios esparcidos por la tierra, algunos pequeños y otros grandes. Los tres santuarios más destacados estaban ubicados dentro de grandes círculos de piedra, de los cuales sospecho conocer el paradero de al menos dos. Según mi investigación:</p>
-
-<ul>
-<li>El santuario del pantano es el círculo de piedras en Berez.</li>
-<li>El santuario de la montaña es el círculo en la cima de la Colina del Ayer.</li>
-<li>Y el santuario del bosque es probable que sea la colección de monolitos detrás del Molino Durst, aunque no es seguro.</li>
-</ul>
-
-<p>Las ruinas de Berez y la Colina del ayer son lugares difíciles para hacer mis investigaciones y mucho mas difícil es conseguir acompañantes. Sobre el santuario del bosque, sospecho que fue dañado por el paso del tiempo, la cercanía a caminos habituales y las visicitudes de la vida en civilización.</p>
-
-<p><b>Culto</b></p>
-
-<p>El culto a las Damas generalmente se presentaba en forma de ofrendas y prácticas religiosas menores. Es fácil imaginar horribles sacrificios de sangre para este culto, sin embargo, ese no es el caso aquí. Las ofrendas solían ser cosas como: Los mejores frutos de la primera cosecha o las astas de un ciervo que matado en la caza. A veces, la gente dejaba pequeñas estatuas talladas u otras piezas de trabajo artístico.</p>
-<p>Las investigaciones arqueológicas e históricas nos permiten deducir que las prácticas solían ser comuniones con la naturaleza, donde la gente se adentraba en los bosques y vivía completamente sola con respeto por las Damas. Los que sobrevivieron regresarían a casa espiritualmente despiertos. Otros rituales eran largas noches dedicadas al respeto y la adoración o peregrinaciones por todo el pueblo a los principales santuarios.</p>
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
-
-
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
-<guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 12:12:24 -0300</pubDate></item>
-<item><title>
-Booklet: Milagros de San Andral
-</title><description><![CDATA[
-
-<p><b>Milagros de San Andral</b>, Por Milos Vikernes</b></p>
-
-<p>Los estudiosos de su obra, y múltiples discípulos dicen que San Andral era poderoso en obras y en palabras. Su cuerpo habitaba esta tierra, pero su alma vivía en los cielos, iluminado por el Señor de la Mañana.</p>
-<p>San Andral, por entonces, declaraba que “el gran peligro del creyente es predicar y no practicar, creer pero no vivir de acuerdo con lo que se cree”. También decía que “El Señor de la Mañana ablanda los corazones duros; si lo invocas, endulzas las tentaciones amargas; si piensas en él, te ilumina el corazón; si lo lees, te sacia la mente”.</p>
-<p>En una oportunidad se encontró cara a cara con el Burgomaestre de Berez, que había perpetrado una terrible masacre entre sus súbditos. Cuando Andral lo vió, le dijo: “Oh, enemigo del Señor de la Mañana, tirano despiadado, perro rabioso, ¿hasta cuándo seguirás derramando sangre inocente? ¡Escucha bien, pende sobre tu cabeza la sentencia del Señor, terrible y durísima!”.
-Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al joven y atrevido Andral, el Burgomaestre los desconcertó a todos al ordenar que el religioso fuera alejado de allí sin violencia. Para explicar su proceder, el tirano les explicó: “Compañeros, no os asombréis. Os digo con toda verdad, que he visto emanar del rostro de este padre el fulgor divino, que me ha aterrado a tal punto que tenía la sensación de precipitar en el caos. Nunca mas me asomaré a la oscuridad”. El Burgomaestre se dedicó a obtener el perdón del Señor de la Mañana y el pueblo de Berez progresó como nunca durante su mandato.</p>
-<p>En una ocasión, cuando los guardias de un mercader de Barovia le impedían al pueblo acudir a sus sermones, Andral se fue a la orilla del lago y proclamó: “Dado que son indignos de la Palabra del Señor de la Mañana, he aquí que me dirijo a los peces. Oigan la palabra de Dios, Uds. los pececillos, ya que los pecadores de la tierra no la quieren escuchar”. Y los peces afloraron por centenares, ordenados y palpitantes, a escuchar la palabra de exhortación y de alabanza. Aquel milagro fue presenciado por decenas de testigos y los herejes de Barovia tuvieron que ceder.</p>
-<p>Hubo una noche en que el Burgomaestre de Vallaki no podía dormir. Decidió acercarse a la iglesia para ver si su amigo Andral estaba despierto y se percató de que la puerta entreabierta de la iglesia salía un intenso resplandor. Temiendo un incendio, empujó la puerta y quedó estupefacto con la escena que presenció: Andral, de rodillas sostenía la mano de un hombre gigante y dorado, vistiendo en rosa, amarillo y rojo que despedía un aura divina y estaba delante de él: un avatar del Señor de la Mañana. El Santo posteriormente le advirtió al Burgomaestre que callara lo que había presenciado, y que lo divulgara sólo hasta que él hubiera muerto, un suceso que iba a ocurrir más temprano que tarde.</p>
-<p>Andral además portaba un símbolo sagrado que se dice había pertenecido al paladín de las leyendas llamado Lugdana, famoso por expulsar nidos enteros de nomuertos. Este símbolo sagrado tenía la forma del sol, en platino y oro, con un gran cristal carmesí en su centro.
-<p>De acuerdo a las leyendas, el amuleto fue entregado a Lugdana por un cuervo, un ángel en forma de cuervo, o un ángel con alas de cuervo según algunas traducciones. De ahí que comunmente se lo conozca como el símbolo sagrado de los cuervos, o el símbolo sagrado de los amigos de los cuervos.</p>
-<p>Se vió a Andral portar el símbolo y usarlo en enfrentamientos, incluso pudiendo detener inmóbil e indefenso al Diablo Strahd.</p>
-<p>En la actualidad se desconoce el paradero de esta santa reliquia de inconmesurable valor. Muchas partidas y expediciones se hicieron en su búsqueda sin dar con él.</p>
-
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
-
-
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//booklet-milagros-de-san-andral.html</link>
-<guid>https://monguito.github.io/web//./booklet-milagros-de-san-andral.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 11:47:40 -0300</pubDate></item>
-<item><title>
-Booklet: El Señor de la Mañana
-</title><description><![CDATA[
-
-
-<p><b>El amanecer</b></p>
-	
-<p>El Señor de la Mañana es la deidad del rosado amanecer que marca el final de cada noche.</p>
-<p>Nuestro señor pide poco de nosotros, mas que seamos amables con el prójimo y mantengamos la esperanza en nuestros corazones. Él nos enseña a tener esperanza por un nuevo amanecer, sin importar cuan poco prometedor parezca el futuro, sin importar cuán oscura sea la noche... el amanecer siempre llega.</p>
-<p>El Señor de la Mañana bendice a quienes plantan nueva vida y destierran la maldad de la cara del mundo, y se regocija en la juvenil vitalidad y en las primaveras bien invertidas en mejorar nuestras vidas.</p>
-<p>El Señor de la Mañana llegó a nuestras tierras ayudando a un pobre hombre perdido en la noche. Él lo protegió de aquello que susurraba en las sombras. Durante toda la noche Él lo protegió con su fulgor y expulsó con su espada a los seres de la noche. Al fin el hombre durmió y pudo ver como El Señor de la Mañana caminaba hacia el horizonte y su halo se convertía en el sol del amanecer.</p>
-
-<p><b>La reliquia</b></p>
-<p>Un día, El Señor de la Mañana vió que sobre su dominio había una oscuridad menguante. Decidido, tomó uno de sus rojos rizos de cabello y lo frotó entre sus dedos hasta convertirlo en un rubí. Lo puso en la palma de su mano y le dió su aliento hasta que volutas de oro y plata se arremolinaron a su alrededor, formando un amuleto con forma de sol. El Señor de la Mañana buscó entre sus fieles al mas ardiente en su fe y mandó un ángel a llevarle el amuleto, Su regalo para la humanidad.</p>
-<p>El ángel buscó al guerrero santo y adoptando la forma de un cuervo le entregó el regalo sagrado, un santo símbolo de paternidad sobre los humanos. Se desconoce el nombre real de este guerrero santo, pero se sabe que se enfrentó incesantemente a las fuerzas de la oscuridad y formó un séquito de adoradores del Señor de la Mañana que un día habría de convertirse en el clero oficial.</p>
-
-
-<p><b>Mandatos</b></p>
-
-<p>El Señor de la Mañana dice:</p>
-
-<ul>
-<li>Esfuérzate siempre en ayudar, en alentar nuevas esperanzas, nuevas ideas y nueva prosperidad para toda la humanidad y sus aliados.</li>
-<li>Es una obligación sagrada promover el nuevo desarrollo, cuidar de las cosas que crecen y trabajar para el renacer y la renovación.</li>
-<li>Perfecciónate y sé fértil de mente y cuerpo.</li>
-<li>Donde quiera que vayas planta en las mentes de todos semillas de esperanza, nuevas ideas y planes para un futuro prometedor.</li>
-<li>Observa cada amanecer.</li>
-<li>Considera las consecuencias de tus acciones para que el menos de tus esfuerzos pueda lograr la mayor y mejor de las recompensas.</li>
-<li>Evita la negatividad, pues de la muerte viene la vida, y siempre habrá un nuevo día en el que podrás convertir un fracaso en un éxito.</li>
-<li>Concede mayor importancia a las actividades que ayudan a los demás, que a la estricta adhesión a las reglas, rituales y dictados de tus mayores.</li>
-</ul>
-
-
-
-
-<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
-<guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
-<dc:creator>Compi</dc:creator>
-<pubDate>Fri, 12 Aug 2022 08:41:18 -0300</pubDate></item>
+<pubDate>Thu, 11 Aug 2022 20:15:18 -0300</pubDate></item>
 </channel></rss>
