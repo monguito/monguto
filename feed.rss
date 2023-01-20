@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
 <description>La cueva del rol</description><language>en</language>
-<lastBuildDate>Fri, 11 Nov 2022 10:00:54 -0300</lastBuildDate>
-<pubDate>Fri, 11 Nov 2022 10:00:54 -0300</pubDate>
+<lastBuildDate>Fri, 20 Jan 2023 11:13:11 -0300</lastBuildDate>
+<pubDate>Fri, 20 Jan 2023 11:13:11 -0300</pubDate>
 <atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Booklet: El dragón plateado
+</title><description><![CDATA[
+
+<p>Por Igor Kravine, cronista oficial</p>
+
+<p>Enorme fue la sorpresa de Nuestro Señor Eterno Strahd cuando asedió con sus fuerzas la fortaleza de la Orden del Dragón de Plata, llamada Argynvostholt (Trad.: guarida - dragon - argénteo) y el Comandante de las fuerzas asediadas, Lord Argynvost se convirtió en un Dragón Gigante de Plata. Ni Strahd mismo podría haberse imaginado que Lord Argynvost era -literalmente y en toda la palabra- un dragón oculto por mas de 40 años delante de sus narices traicioneramente. Luego de ser interrogados se descubrió que sólo los paladines de la Orden del Dragón de Plata conocían la verdadera naturaleza de Lord Argynvost.</p>
+
+<p>Pero esta historia no comienza ahí, pues ése fue el final de Argynvost y la Orden del Dragón de Plata. La historia comienza hace cuarenta años cuando un forastero humano llamado Lord Argynvost se asentó en un bello valle al sur de Vallaki y construyó una mansión fortificada a la cual llamó con su nombre.</p>
+
+<p>Lord Argynvost era extremadamente rico, carismático y justo (según sus palabras), y utilizó sus recursos para atraer a otros campeones del bien (así los llamaba) a las tierras de Barovia, para unirse a la prestigiosa Orden del Dragón de Plata, adoradores del Señor de la Mañana.</p>
+
+<p>Cuando el ahora Conde Strahd von Zarovich, regente de las tierras de Barovia pacificó a los elfos paganos del bosque, Andral creyó que necesitaban que se les mostrara la luz del Señor de la Mañana y que abandonaran su práctica primitiva de adoración abstracta de la naturaleza. Cuando Lord Strahd derribó al poderoso dragón plateado Argynvost y eliminó las fuerzas disidentes de su orden de caballeros, Andral guardó un profundo silencio. Se dice que la relación con S.M. se marchitó. Poco después, él también lo abandonó. Andral se estableció en la aldea en desarrollo que se llamaría Vallaki.</p>
+
+<p>Se cree que la rispidez entre el Conde Strahd y La Orden del Dragón de Plata se acrecentó a medida que el número de sirvientes de la Orden incrementaba. También se estipula que la ubicación geográfica de la mansión de Argynvost no fue al azar y hay ciertos comentarios que indican que podría ser un enclave estratégico de defensa de algún poderoso lugar. Lamentablemente qué protegía la mansión de Argynvost es algo que él se ha llevado a la tumba y se cree que ésto es solo habladurías para incrementar el misterio alrededor Lord Argynvost.</p>
+
+<p>Las relaciones se volvieron hostiles con Lord Strahd, y la guerra explotó poco a poco. Argynvost quería tomar el control de las tierras de Barovia y acusó a Strahd públicamente de crímenes horrorosos (totalmente falsos) y cargos sobrenaturales; como si el mentiroso Dragón de Plata no fuera un ser sobrenatural también.</p>
+
+<p>El desenlance final se produjo en Argynvostholt, la mansión fortificada de Argynvost, donde Lord Argynvost dejó de ocultar su traicionera forma natural y se enfrentó a Nuestro Eterno Señor Lord Strahd von Zarovich y sus valientes fuerzas. Sin embargo, la valentía y los números no son suficientes ante el experimentado Strahd, que recordemos fue un General excepcionalmente dotado para la conquista. Argynvost convertido en dragón y toda su orden de caballeros pereció, sobrepasada por las fuerzas de Strahd ese mismo día, incluídos sus clérigos, paladines y guerreros y confidentes de mas alto rango: Vladimir Horngaard, Sir Godfrey Gwilym, Sir Robern Teray, Arthund Boarwin, Sir Damian Hargrove, Sir Erich Norinthaal.</p>
+
+<p>El cuerpo de de Argynvost fue trozado en piezas y la carne separada de los huesos, los cuales N.E.S. Strahd v.Z. suponemos tiene en su poder hasta el dia de hoy, suponemos que a forma de trofeo. Lord Strahd no lo confirma ni deniega.</p> 
+
+<p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://monguito.github.io/web//booklet-el-dragon-plateado.html</link>
+<guid>https://monguito.github.io/web//./booklet-el-dragon-plateado.html</guid>
+<dc:creator>Compi</dc:creator>
+<pubDate>Fri, 20 Jan 2023 10:12:32 -0300</pubDate></item>
 <item><title>
 Norberto Von Zarovich, Psicólogo
 </title><description><![CDATA[
@@ -24,6 +55,7 @@ Norberto Von Zarovich, Psicólogo
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
 
 
 
@@ -72,6 +104,7 @@ Booklet: Vida de San Andral
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-vida-de-san-andral.html</link>
 <guid>https://monguito.github.io/web//./booklet-vida-de-san-andral.html</guid>
@@ -100,6 +133,7 @@ Booklet: Epístola de Santa Markovia
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -140,6 +174,7 @@ Sesión 7, 21/08/2022
 </ul>
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
 
 
 
@@ -198,6 +233,7 @@ Booklet: Fatas de Barovia, Tomo I
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
 <guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
@@ -222,6 +258,7 @@ Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al 
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -299,6 +336,7 @@ Booklet: El Señor de la Mañana
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
 <guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
@@ -320,6 +358,22 @@ La Maldición de Strahd
 <p><h2>Cronología:</h2></p>
 
 <ol reversed>
+
+
+
+	<li><b>08/01/2023:</b> De camino de regreso al viñedo, Melina le cuenta todo lo referido de la lanza que habla a Gerold. Incluído el asunto de que los Martikov son licántropos. Gerold decide que va a mantener el secreto.<br>
+	Una vez en El Mago de los Vinos, Krit'Snik se pone a recoger madera que era de las ramas marchitas, Narudiel observa la pira funeraria que hicieron los Martikov con los 3 druidas que el grupo eliminó previamente y luego procede a ayudar en la cocina. Gerold se reúne en privado con Davian y Adrian Martikov y discuten lo sucedido. Gerold le cuenta todo lo que pasó y le entrega la gema amarilla. Davian admite que los Martikov y algunos parientes de los Martikov se convierten en cuervo a voluntad y que hay una espia llamada Muriel Vinshaw que los sigue en forma de cuervo. Mandan a buscar a Muriel y demuestra que cuando se transforman en cuervo, a diferencia de los druidas, la ropa y equipo queda en el lugar. Hablan sobre las gemas, acerca de que la otra la tiene Baba Lysaga. Muriel dice que es peligroso ir ahora asi nomas, hay que planear. Davian les advierte sobre los espantapájaros animados que usa Baba Lysaga. Le entregan a Gerold un broche de plata-oro que indica que es amigo de los Guardianes de la Pluma, la logia de los Martikov. Gerold se guarda para si mismo el conocimiento de que los Martikov son licántropos.<br> Regresan a Vallaki, de camino encuentran un paquete con ropa que Gerold recoge. Antes de entrar en la ciudad ven en el bosque una columna de humo. Cafrune manda su búho a investigar y dice que hay un círculo de tiendas, con caballos y gente. Entregan el vino en la mansión del Burgomaestre y Gerold se autoinvita a una cena formal esta misma noche.<br> Vuelven a la posada el agua azul, donde Narudiel y Krit'Snik se ponen a inventar cosas y Gerold a redactar sus memorias. Gerold entrega el broche de no-detección mágica a Melina/Ireena para que no la pueda encontrar Strahd. Narudiel practica sus habilidades caligráficas y de falsificación. Un mono tití le roba el prendedor a Gerold y al perseguirlo conocen a Gadof Blinsky. Narudiel va a la juguetería de Blinsky donde encuentra una muñeca igual a Ireena con su atuendo y peinado de nobleza. A Blinsky se le escapa que ya hizo varias, a pedido de alguien importante.<br> Van a la cena con el Burgomaestre donde conocen a su familia, compuesta de esposa, Lydia Petrovna, hermana del padre Lucian Petrovich de la iglesia de San Andral, y de su hijo, el Baronet Victor Vallakovich, un hombre joven taciturno y algo ojeroso. Tienen una cena amable donde se tiene una charla ligera y el Burgomaestre deja en claro su descontento con la familia Wachter, a los cuales pinta como poderosos, con amigos poderosos y apologistas de Strahd. Nombra que su hijo -el Baronet- estuvo a punto de casarse con la hija de Fiona Wachter, la lider del clan pero que afortunadamente los Wachter cancelaron a último momento el compromiso.<br> Pasan a la sala donde participa también Izek Strazni (lider de la guardia, el que tiene mano de lagarto o algo así) de la conversación donde Gerold explica todo -excepto sobre las gemas y que los Martikov son licántropos- el Burgomaestre está preocupado por el nivel de coordinación que tuvieron los druidas y sospecha de la intervención de los Wachter. Gerold advierte sobre la próxima escasez del vino Cosecha del Dragón Rojo ya que la gema está en poder de Baba Lysaga. El Barón cree que Baba Lysaga es un cuento para asustar niños, pero no descarta la posibilidad de que algo haya en ese lugar.<br>Gerold avisa que mañana van a viajar a Krezk y el burgomaestre les recuerda que a la tarde/noche es el festival del Sol Llameante y hay que festejar, mas aún que el vino está garantizado. Consultan por la torre cercana al lago y la definen como solamente una torre abandonada, cerrada. Como no tiene valor estratégico por su ubicación ni nada de valor (si ha tenido algo, seguramente se lo robaron) no le prestan atención. Cafrune saca el tema del campamento. Les cuentan que es un campamento de Vistani, ya que los mismos tienen prohibida la entrada a Vallaki porque sospecha de alianzas de ellos con Strahd; ya que son los unicos que entran y salen a voluntad de Barovia. En este campamento también viven con Elfos. </li>
+	<li><b>18/12/2022:</b> Marchan hacia la colina de los druidas y antes de llegar ven en la cima de la colina a Strahd mirando hacia el oeste. Al cabo de un rato, levita y se convierte en niebla. En la cima de la colina hay una tormenta de viento y rayos, y los mismos impactan con frecuencia sobre la colina. Con cuidado van subiendo y ven que son túmulos druídicos. En la cima hay un semicirculo de piedras donde los rayos impactan y en el centro una estatua de ramas con forma de Strahd y una lanza en el centro de la misma. Al lado, el druida Keshgar tiene de rehén a Stefania y le susurra cosas en el oído mientras tiene en la mano la gema robada. El grupo ataca al druida, que tiene berserkers con hachas de piedra de refuerzo y una vez que los derrotan, Narudiel recupera la gema. Melina saca del interior de la estatua de ramas la lanza, que resulta ser un arma inteligente que le ordena eliminar a su "progenie descarriada". Avanzan a la siguiente área donde hay un enorme árbol con bulbosidades en sus ramas y 6 druidas haciendo un ritual. El árbol tiene una "boca" y dentro de ella está el niño Claudiu al cual rescatan. Eliminan a los druidas y a los berserkers que intentaban defenderlos. Durante el combate, el árbol comienza a crear seres de ramas (ramas marchitas) y cuando rompen el báculo del druita, todas son destruídas. Además entre Gerold y Krit'Snik incendian el árbol hasta destruirlo. Una vez terminado ven una ilusión a través de la niebla donde Stradh estaba mirando, una ciudad hermosa y bulliciosa aparentemente cercana, quizá a 1km de distancia. En el camino de regreso, Melina aprende algunas cosas de conversar con la lanza:<br>
+	a) La lanza tiene el espiritu de Kavan, un lider druida berserker de los pueblos originarios de este lugar<br>
+	b) Hubo un cisma entre los druidas cuando Strahd se convirtió en vampiro, y alguno de ellos lo empezaron a adorar como un dios. Otros lo despreciaban. Kavan es de estos últimos.<br>
+	c) El asesinato de Kavan hizo que el cisma entre los druidas sea definitivo y muchos de ellos simplemente se integraron al resto de la población baroviana.<br>
+	d) Los druidas que adoran a Strahd perdieron la capacidad de convertirse en animales.<br>
+	e) Por ello están decididos a interrogar, secuestrar y chantajear a los Martikov que son licántropos que se convierten en cuervos.<br>
+	f) Baba Lysaga odia a los Martikov y otros cuervos licántropos y mandó a asesinarlos, pero Keshgar pidió interrogarlos primero para saber como recuperar la habilidad de transformarse.<br>
+	g) La ilusión de la ciudad cercana es la ciudad natal de Strahd. Viene de vez en cuando a observarla.<br>
+	h) El árbol gigante -que se llama Gulthias- es el origen de las ramas marchitas. Ahora que fue destruído, ya no podrán crearse mas de estos seres. </li>
+	<li><b>11/12/2022:</b> Se acuestan a descansar y Vondal y Narudiel tienen pesadillas con las brujas del molino, específicamente Morgantha. En estas pesadillas las brujas les muestran a los personajes alguna parte de sus miedos y les muestran el molino incendiado. Esto parece afectarlos porque además de no dejarlos descansar, pierden puntos máximos de vida (7 Vondal, 3 Narudiel). Esta condición puede ser levantada sólo con Restablecimiento Mayor. Parten hacia la vinería y al llegar se encuentran con la familia Martikov que les explica que dos de ellos (Stefania y Claudiu) fueron secuestrados por los druidas, uno de ellos (Davian Martikov, el patriarca) está de rehén en el interior de la vinería, y que desenterraron una gema mágica que permite que la vid crezca en este lugar. Hace 3 semanas habían robado otra gema y hace 10 años habían robado la primera. El grupo se acerca a la vinería y Gerold crea un plan para engañar a los druidas, donde les hace creer que Strahd mismo los envió a tomar posesión de este lugar, y averigua que la misión de los druidas era la de obtener la gema, misión asignada por Keshgar (en la colina de los druidas) y matar a los cuervos, misión asignada por Baba Lysaga. Sin mas, eliminan a los druidas y a las ramas marchitas que había en el interior de la vinería y descubren que parte del vino fermentando está envenenado. Logran purificar la mitad del vino y luego de un descanso, deciden ir a recuperar la gema a la colina.</li>
+	<li><b>27/11/2022:</b> Investigan en el orfanato y descubren que el origen de la maldición es un colgante que tiene Félix, un recuerdo de los padres. Luego de deliberar sobre el asunto, Vondal crea una copia y cuando comienzan a destruir la original, en una explosión de viento que apaga las luces del lugar sale un Demonio de las Sombras. Gerold rápidamente evacúa la zona y los demás combaten con dificultad con el demonio, el cual se esoconde en las sombras. Una vez resuelto, marchan hacia la posada.</li>
 	<li><b>30/10/2022:</b> Inmediatamente llega el burgomaestre con parte del destacamento de guardias a ver que era el escándalo. Los escolta a su opulenta mansión donde en un clima mas relajado intenta reconstruir los hechos. No se concluye que el hombre calvo con brazo monstruoso (Izek Strazni) haya actuado fuera de la ley, sino con su habitual descortesía y falta de tacto. Obliga a Izek a dar disculpas a Ireena, Cafrune y el equipo. Izek insiste en que Ireena es su hermana dando la edad exacta en que Ireena apareció perdida en Barovia. Ireena, bien aconsejada por Gerold desvía la atención del hecho indicando diferencias físicas y redoblando con la mentira de que es Melina y siempre tuvo familia. Izek trae un dibujo en lápiz que hizo cuando era chico de la viva imagen de una niña Ireena, y aunque sorprendida, ella se mantuvo en su línea. El burgomaestre luego les pide que vayan a ver qué pasa con el Mago de los Vinos, quienes supone tuvieron problemas para enviar el cargamento. Una semana no está fuera de lo común, pero dos semanas sí. Vondal solicita una carreta y les ofrecen una con dos caballos. Partirán al amanecer del día siguiente. Krit'Snik da vueltas por el pueblo y toma nota de lugares que le interesaron. Vondal, Cafrune poliformizado en lagartija y Nadudiel visitan al padre Lucien de la iglesia de San Andral. Tienen una larga conversación que repasa historia de Barovia, la vida de San Andral, y el origen del poderoso artefacto llamado el Símbolo Sagrado de los Cuervos. Lucien no sabe donde está el artefacto, pero Cafrune y Vondal sospechan que se podría encontrar aquí mismo. Cafrune revisa el ostentorio dorado de la iglesia pero no encuentra nada. El padre Lucien le cuenta a Vondal que la iglesia está permanentemente protegida de Strahd y cualquier vampiro gracias al poder de los huesos de San Andral que protegen el lugar. Cafrune corrobora que bajo el suelo hay una caja de madera y oro con un paño de seda roja que aloja varios huesos largos y vértebras. Durante la conversación, el padre Lucien le comenta que el Abad de la iglesia de Krezk también es devoto a Moradin además de al Señor del Amanecer. Ademas, entrega a Vondal dos libros para que conozca mas sobre <a href="booklet-vida-de-san-andral.html">La vida de San Andral</a> y <a href="booklet-epistola-de-santa-markovia.html">Santa Markovia</a>. Narudiel en la iglesia escucha hablar al monaguillo sobre un tal Milivoj que trabaja ahí que faltó al trabajo. Luego se retiran de la iglesia y marchan hacia la posada, excepto Narudiel que va a visitar el orfanato de vallaki. Ahí hace una generosa donación cuando conoce a los cuidadores, Claudia Belasco y Milivoj y a los chicos. Jugando con ellos, se entera que varios comparten pesadillas y que Milivoj está sufriendo algún tipo de enfermedad. Lleva a Milivoj a la posada para que Vondal y Krit'Snik lo examinen y descubrien que está aflijido por algún tipo de maldición que le está succionando la vida. Las conclusiones son que Milivoj enfermó y al poco tiempo de que llegue Felix, el nuevo chico al orfanato y que los demás chicos tuvieron pesadillas luego de que Felix también las tuviera. Ahora temen por el bienestar de Félix...</li>
 	<li><b>02/10/2022:</b> Se alojan en la posada Agua Azul, Narudiel y Cafrune se escurren por la posada y descubren una caballeriza con una yegua y muchos cuervos. Los cuervos dicen que la posada es un punto de reunion para los cuervos y que muchas veces hay cuervos que <i>hablan otro idioma</i> a los cuales no les entienden. Ven que los hijos de Danika y Urwin Martikov, dueños de la posada se aparecieron por un lugar inesperado. Narudiel revisó las cosas de Rictavio y robó su diario para investigarlo. Vondal acepta leerlo, pero le dice que debe devolverlo. A la mañana siguiente Gerold y Narudiel quedan en la posada, Vondal y Krit'Snik van a recorrer el pueblo y hacer compras y Ireena 'Melina' Kolyanovich y Cafrune (convertido en perro) van a la casa de su pariente. Melina descubre que la casa está abandonada y temiendo una trampa, se vuelven. De camino se cruzan con un grandote pelado con un brazo deforme con espinas y garras que le grita a Ireena que no se vaya, e intenta raptarla y comienza una persecusión-combate junto con los guardias de la ciudad que apoyan al pelado. El hombre está trastornado de la desesperación diciendo cosas como "te busco hace mucho tiempo" y "te sueño todas las noches". Una vez es derrotado, dice que Ireena es su hermana.</li>
 	<li><b>18/09/2022:</b> Mientras examinan el templo bajo los monolitos, un cuervo se posa en una roca e intenta advertirles sobre peligro. Las dos mujeres que vivían en molino se acercan a mirar qué hicieron ahí y luego de desaparecer por un instante, atacan al grupo. Su apariencia es monstruosa, como de brujas. Intercambian golpes hasta que un rayo de Vondal carboniza a Ofelia de forma inesperada, dejando sólo cenizas y algunos objetos. Bella, su hermana, se hace invisible y se retira. Revisan el molino y encuentran magia extraña en la cocina y liberan a 2 niños enjaulados (Freek y Myrthle) que se encuentran bien de salud. Los niños explican como las brujas les extraen los sueños durante la noche para hacer las empanadas de ensueño. Gerold en un momento de furia destroza las jaulas y luego incendia el molino. Observan hasta que se desmorona por completo. Continúan el camino hacia Vallaki sin problemas, aunque Cafrune ve que el mismo cuervo que les avisó los sigue. Se llevan a Freek y Myrthle hacia Vallaki porque sino deberían volver atrás a Barovia a dejarlos. De todas formas Freek no quiere volver a casa porque la madre lo ofreció a las brujas. Descubren que Vallaki es una ciudad protegida por una empalizada y el Burgomaestre, Barón Vargas Vallakovich los deja pasar luego de comentarles sobre las festividades semanales que se realizan. Esta vez es sobre un sol llameante. Habrá musica, baile, comida. Disfraces y carruajes. Todo irá bien. Pasean por la ordenada y cuidada ciudad hasta el centro donde está la posada Agua Azul y ahi comen, beben y Gerold hace una excelente performance que es opacada por la aparicion del queridísimo bardo local, Rictavio. </li>
@@ -335,6 +389,7 @@ La Maldición de Strahd
 
 
 <p>Etiquetas:</p>
+
 
 
 
