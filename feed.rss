@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Monguito</title><link>https://monguito.github.io/web//index.html</link>
 <description>La cueva del rol</description><language>en</language>
-<lastBuildDate>Fri, 20 Jan 2023 11:13:11 -0300</lastBuildDate>
-<pubDate>Fri, 20 Jan 2023 11:13:11 -0300</pubDate>
+<lastBuildDate>Sun, 05 Feb 2023 21:18:44 -0300</lastBuildDate>
+<pubDate>Sun, 05 Feb 2023 21:18:44 -0300</pubDate>
 <atom:link href="https://monguito.github.io/web//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Booklet: El dragón plateado
@@ -17,8 +17,6 @@ Booklet: El dragón plateado
 
 <p>Lord Argynvost era extremadamente rico, carismático y justo (según sus palabras), y utilizó sus recursos para atraer a otros campeones del bien (así los llamaba) a las tierras de Barovia, para unirse a la prestigiosa Orden del Dragón de Plata, adoradores del Señor de la Mañana.</p>
 
-<p>Cuando el ahora Conde Strahd von Zarovich, regente de las tierras de Barovia pacificó a los elfos paganos del bosque, Andral creyó que necesitaban que se les mostrara la luz del Señor de la Mañana y que abandonaran su práctica primitiva de adoración abstracta de la naturaleza. Cuando Lord Strahd derribó al poderoso dragón plateado Argynvost y eliminó las fuerzas disidentes de su orden de caballeros, Andral guardó un profundo silencio. Se dice que la relación con S.M. se marchitó. Poco después, él también lo abandonó. Andral se estableció en la aldea en desarrollo que se llamaría Vallaki.</p>
-
 <p>Se cree que la rispidez entre el Conde Strahd y La Orden del Dragón de Plata se acrecentó a medida que el número de sirvientes de la Orden incrementaba. También se estipula que la ubicación geográfica de la mansión de Argynvost no fue al azar y hay ciertos comentarios que indican que podría ser un enclave estratégico de defensa de algún poderoso lugar. Lamentablemente qué protegía la mansión de Argynvost es algo que él se ha llevado a la tumba y se cree que ésto es solo habladurías para incrementar el misterio alrededor Lord Argynvost.</p>
 
 <p>Las relaciones se volvieron hostiles con Lord Strahd, y la guerra explotó poco a poco. Argynvost quería tomar el control de las tierras de Barovia y acusó a Strahd públicamente de crímenes horrorosos (totalmente falsos) y cargos sobrenaturales; como si el mentiroso Dragón de Plata no fuera un ser sobrenatural también.</p>
@@ -28,6 +26,7 @@ Booklet: El dragón plateado
 <p>El cuerpo de de Argynvost fue trozado en piezas y la carne separada de los huesos, los cuales N.E.S. Strahd v.Z. suponemos tiene en su poder hasta el dia de hoy, suponemos que a forma de trofeo. Lord Strahd no lo confirma ni deniega.</p> 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -55,6 +54,7 @@ Norberto Von Zarovich, Psicólogo
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
 
 
 
@@ -105,6 +105,7 @@ Booklet: Vida de San Andral
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-vida-de-san-andral.html</link>
 <guid>https://monguito.github.io/web//./booklet-vida-de-san-andral.html</guid>
@@ -133,6 +134,7 @@ Booklet: Epístola de Santa Markovia
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -174,6 +176,7 @@ Sesión 7, 21/08/2022
 </ul>
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a></p>
+
 
 
 
@@ -234,6 +237,7 @@ Booklet: Fatas de Barovia, Tomo I
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-fatas-de-barovia-tomo-i.html</link>
 <guid>https://monguito.github.io/web//./booklet-fatas-de-barovia-tomo-i.html</guid>
@@ -258,6 +262,7 @@ Cuando los guardias esperaban ansiosos que los mandaran a apresar y asesinar al 
 
 
 <p>Etiquetas: <a href='tag_strahd.html'>strahd</a>, <a href='tag_strahd-booklet.html'>strahd-booklet</a></p>
+
 
 
 
@@ -337,6 +342,7 @@ Booklet: El Señor de la Mañana
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://monguito.github.io/web//booklet-el-senor-de-la-manana.html</link>
 <guid>https://monguito.github.io/web//./booklet-el-senor-de-la-manana.html</guid>
@@ -353,6 +359,8 @@ La Maldición de Strahd
 <li><a href="tag_strahd-booklet.html">Booklets</a></li>
 <li><a href="lectura-del-tarokka.html">Lecturas del Tarokka</a></li>
 <li><a href="norberto-von-zarovich-psicologo.html">Norberto Von Zarovich, psicólogo</a></li>
+<li><a href="img/mapa.jpg">Mapa de la torre de Exethander</a></li>
+
 </ul>
 
 <p><h2>Cronología:</h2></p>
@@ -389,6 +397,7 @@ La Maldición de Strahd
 
 
 <p>Etiquetas:</p>
+
 
 
 
